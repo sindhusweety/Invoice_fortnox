@@ -1,0 +1,2156 @@
+invoice_id,amount,name,Date,country,charge_id/unique_id
+1,114,Azadeh Brownlee,2018-05-13,,602836217U016874D
+2,965,Jesper Jensen,2018-05-02,,7GY531975G9869129
+3,114,Azadeh Brownlee,2018-05-13,,602836217U016874D
+4,1238,Connectivo,2018-09-01,,
+5,902,Solideo Poletti,2018-04-16,, Order #250
+6,6311,Connectivo,2018-09-03,,
+7,0,Carlos Alberto Santana Juchli,2016-11-03,, Order #245
+8,890,Solideo Poletti,2018-04-16,, Order #250
+9,499,Klarna Test,2018-09-04,, 256570
+10,499,Klarna Test,2018-08-20,, 256570
+11,113,GLOBEXCAM COMPANY LIMITED,2018-05-13,,602836217U016874D
+12,956,Jesper Jensen,2018-05-02,,7GY531975G9869129
+13,111,GLOBEXCAM COMPANY LIMITED,2018-05-13,,602836217U016874D
+14,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+15,111,GLOBEXCAM COMPANY LIMITED,2018-05-13,,602836217U016874D
+16,111,GLOBEXCAM COMPANY LIMITED,2018-05-13,,602836217U016874D
+17,111,GLOBEXCAM COMPANY LIMITED,2018-05-13,,602836217U016874D
+18,111,GLOBEXCAM COMPANY LIMITED,2018-05-13,,602836217U016874D
+19,111,GLOBEXCAM COMPANY LIMITED,2018-05-13,,602836217U016874D
+20,111,GLOBEXCAM COMPANY LIMITED,2018-05-13,,602836217U016874D
+21,111,GLOBEXCAM COMPANY LIMITED,2018-05-13,,602836217U016874D
+22,111,GLOBEXCAM COMPANY LIMITED,2018-05-13,,602836217U016874D
+23,111,GLOBEXCAM COMPANY LIMITED,2018-05-13,,602836217U016874D
+24,111,GLOBEXCAM COMPANY LIMITED,2018-05-13,,602836217U016874D
+25,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+26,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+27,111,GLOBEXCAM COMPANY LIMITED,2018-05-13,,602836217U016874D
+28,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+29,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+30,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+31,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+32,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+33,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+34,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+35,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+36,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+37,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+38,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+39,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+40,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+41,125,Jesper Jensen,2018-09-20,,
+42,125,Jesper Jensen,2018-09-20,,
+43,125,Jesper Jensen,2018-09-20,,
+44,944,Jesper Jensen,2018-05-02,,7GY531975G9869129
+45,833,Solideo Poletti,2018-04-16,, Order #250
+46,833,Solideo Poletti,2018-04-16,, Order #250
+47,833,Solideo Poletti,2018-04-16,, Order #250
+48,833,Solideo Poletti,2018-04-16,, Order #250
+49,833,Solideo Poletti,2018-04-16,, Order #250
+50,833,Solideo Poletti,2018-04-16,, Order #250
+51,833,Solideo Poletti,2018-04-16,, Order #250
+52,833,Solideo Poletti,2018-04-16,, Order #250
+53,833,Solideo Poletti,2018-04-16,, Order #250
+54,833,Solideo Poletti,2018-04-16,, Order #250
+55,833,Solideo Poletti,2018-04-16,, Order #250
+56,0,Solideo Poletti,2018-04-16,, Order #250
+57,833,Solideo Poletti,2018-04-16,, Order #250
+58,833,Solideo Poletti,2018-04-16,, Order #250
+59,833,Solideo Poletti,2018-04-16,, Order #250
+60,833,Solideo Poletti,2018-04-16,, Order #250
+61,833,Solideo Poletti,2018-04-16,, Order #250
+62,833,Solideo Poletti,2018-04-16,, Order #250
+63,833,Solideo Poletti,2018-04-16,, Order #250
+64,833,Solideo Poletti,2018-04-16,, Order #250
+65,350,Azadeh Brownlee,2018-10-01,,485
+66,350,Azadeh Brownlee,2018-10-01,,485
+67,350,Azadeh Brownlee,2018-10-01,,485
+68,350,Azadeh Brownlee,2018-10-01,,485
+69,350,Azadeh Brownlee,2018-10-01,,485
+70,350,Azadeh Brownlee,2018-10-01,,485
+71,350,Azadeh Brownlee,2018-10-01,,485
+72,350,Azadeh Brownlee,2018-10-01,,485
+73,350,Azadeh Brownlee,2018-10-01,,485
+74,350,Azadeh Brownlee,2018-10-02,,485
+75,833,Solideo Poletti,2018-04-16,, Order #250
+76,833,Solideo Poletti,2018-04-16,, Order #250
+77,350,Azadeh Brownlee,2018-10-03,,485
+78,350,Azadeh Brownlee,2018-10-03,,485
+79,735,Kund- 257379,2018-09-25,, 257379
+80,188,Kund- 257077,2018-09-14,, 257077
+81,293,Kund- 257459,2018-10-01,, 257459
+82,293,Kund- 257459,2018-10-01,, 257459
+83,293,Kund- 257459,2018-10-01,, 257459
+84,293,Kund- 257459,2018-10-01,, 257459
+85,293,Kund- 257459,2018-10-01,, 257459
+86,293,Kund- 257459,2018-10-01,, 257459
+87,293,Kund- 257459,2018-10-01,, 257459
+88,293,Kund- 257459,2018-10-01,, 257459
+89,293,Kund- 257459,2018-10-01,, 257459
+90,293,Kund- 257459,2018-10-01,, 257459
+91,494,Kund-2036,2018-09-20,,2036
+92,494,Kund-2036,2018-09-20,,2036
+93,494,Kund-2036,2018-09-20,,2036
+94,494,Kund-2036,2018-09-20,,2036
+95,494,Kund-2036,2018-09-20,,2036
+96,494,Kund-2036,2018-09-20,,2036
+97,494,Kund-2036,2018-09-20,,2036
+98,494,Kund-2036,2018-09-20,,2036
+99,39,Anne Lagerström,2018-09-21,,257295
+100,42,Kund- 257295,2018-09-21,, 257295
+101,403,Kund- 257295,2018-09-21,, 257295
+102,403,Kund- 257295,2018-09-21,, 257295
+103,403,Kund- 257295,2018-09-21,, 257295
+104,403,Kund- 257295,2018-09-21,, 257295
+105,403,Kund- 257295,2018-09-21,, 257295
+106,354,Kund-1962,2018-09-24,,1962
+107,769,Kund-2118,2018-09-27,,2118
+108,769,Kund-2118,2018-09-27,,2118
+109,769,Kund-2118,2018-09-27,,2118
+110,769,Kund-2118,2018-09-27,,2118
+111,769,Kund-2118,2018-09-27,,2118
+112,769,Kund-2118,2018-09-27,,2118
+113,769,Kund-2118,2018-09-27,,2118
+114,769,Kund-2118,2018-09-27,,2118
+115,769,Kund-2118,2018-09-27,,2118
+116,7937,Kund-2118,2018-09-27,,2118
+117,835,Kund-2118,2018-09-27,,2118
+118,835,Kund-2118,2018-09-27,,2118
+119,846,Kund-2118,2018-10-09,,2118
+120,846,Kund-2118,2018-10-09,,2118
+121,-354,Kund-1962,2018-09-24,,1962
+122,458,Kund-2036,2018-09-20,,2036
+123,835,Kund-2118,2018-09-27,,2118
+124,835,Kund-2118,2018-09-27,,2118
+125,835,Kund-2118,2018-09-27,,2118
+126,846,Kund-2118,2018-09-27,,2118
+127,846,Kund-2118,2018-09-27,,2118
+128,846,Kund-2118,2018-09-27,,2118
+129,846,Kund-2118,2018-09-27,,2118
+130,846,Kund-2118,2018-09-27,,2118
+131,846,Kund-2118,2018-09-27,,2118
+132,846,Kund-2118,2018-10-01,,2118
+133,846,Kund-2118,2018-10-01,,2118
+134,-354,Kund-1962,2018-09-24,,1962
+135,-354,Kund-1962,2018-09-24,,1962
+136,-354,Kund-1962,2018-09-24,,1962
+137,-509,Kund-1745,2018-09-24,,1745
+138,458,Kund-2036,2018-09-20,,2036
+139,208,Kund-2067,2018-09-20,,2067
+140,599,Kund-2069,2018-09-20,,2069
+141,1239,Kund-2070,2018-09-20,,2070
+142,238,Kund-2076,2018-09-20,,2076
+143,799,Kund-2081,2018-09-20,,2081
+144,938,Kund-2087,2018-09-20,,2087
+145,404,Kund-2068,2018-09-18,,2068
+146,833,Solideo Poletti,2018-04-16,, Order #250
+147,179,Vera A Stringham ,2018-10-18,,Försäljning av varor
+148,363,Sri Mukteshwaram,2018-10-06,,5A035632YA866772E
+149,363,Sri Mukteshwaram,2018-10-06,,5A035632YA866772E
+150,363,Sri Mukteshwaram,2018-10-06,,5A035632YA866772E
+151,363,Sri Mukteshwaram,2018-10-06,,5A035632YA866772E
+152,363,Sri Mukteshwaram,2018-10-06,,5A035632YA866772E
+153,-778,Kund-1736,2018-10-04,,1736
+154,499,Jesper Jensen,2018-10-21,,
+155,545,Kund-2066,2018-10-04,,2066
+156,545,Kund-2066,2018-10-04,,2066
+157,545,Kund-2066,2018-10-04,,2066
+158,769,Kund-2118,2018-09-27,,2118
+159,769,Kund-2118,2018-09-27,,2118
+160,545,Kund-2066,2018-10-04,,2066
+161,545,Kund-2066,2018-10-04,,2066
+162,596,Kund-2066,2018-10-04,,2066
+163,596,Kund-2066,2018-10-04,,2066
+164,846,Kund-2118,2018-09-27,,2118
+165,534,Kund-2091,2018-10-04,,2091
+166,534,Kund-2091,2018-10-04,,2091
+167,534,Kund-2091,2018-10-04,,2091
+168,596,Kund-2066,2018-10-04,,2066
+169,596,Kund-2066,2018-10-04,,2066
+170,534,Kund-2091,2018-10-04,,2091
+171,534,Kund-2091,2018-10-04,,2091
+172,710,Kund-2110,2018-10-04,,2110
+173,82,Donald Harris,2017-01-02,,43U45223YJ568532T
+174,82,Donald Harris,2017-01-02,,43U45223YJ568532T
+175,82,Donald Harris,2017-01-02,,43U45223YJ568532T
+176,82,howard ausborn,2017-01-02,,5VV38308EN512020W
+177,199,cus_DfbIicOCgVRJBw,2018-10-25,,Automatisera Mera - Order 1834
+178,199,cus_DfbIicOCgVRJBw,2018-10-25,,Automatisera Mera - Order 1834
+179,0,cus_DcunBYcOXZCCGr,2018-10-22,,Försäljning av varor
+180,0,cus_DiVN5sZthK6FAk,2018-10-22,,Försäljning av varor
+181,0,cus_DiVN5sZthK6FAk,2018-10-22,,Försäljning av varor
+182,0,cus_DiVN5sZthK6FAk,2018-10-22,,Försäljning av varor
+183,0,cus_DceHUFensp1Aqt,2018-10-22,,Försäljning av varor
+184,148,Roger Lamb,2018-05-17,,Försäljning av varor
+185,148,Roger Lamb,2018-05-17,,Försäljning av varor
+186,148,Roger Lamb,2018-05-17,,Försäljning av varor
+187,148,Roger Lamb,2018-05-17,,Försäljning av varor
+188,148,Roger Lamb,2018-05-17,,Försäljning av varor
+189,148,Roger Lamb,2018-05-17,,Försäljning av varor
+190,90,Megan Smith,2017-04-07,,3X726122XF5689210
+191,90,Megan Smith,2017-04-07,,3X726122XF5689210
+192,90,Megan Smith,2017-04-07,,3X726122XF5689210
+193,90,Megan Smith,2017-04-07,,3X726122XF5689210
+194,132,Jamie Chamberlin,2017-05-02,,8R888001G3400593W
+195,132,Jamie Chamberlin,2017-05-02,,8R888001G3400593W
+196,405,Patricia Schaeffer,2018-10-21,,43M33434GH895522S
+197,405,Patricia Schaeffer,2018-10-21,,43M33434GH895522S
+198,405,Patricia Schaeffer,2018-10-21,,43M33434GH895522S
+199,405,Patricia Schaeffer,2018-10-21,,43M33434GH895522S
+200,405,Patricia Schaeffer,2018-10-21,,43M33434GH895522S
+201,405,Patricia Schaeffer,2018-10-21,,43M33434GH895522S
+202,289,Gladys Harrison,2018-10-16,,6WE75156A2233915L
+203,363,Sri Mukteshwaram,2018-10-06,,5A035632YA866772E
+204,454,Linda Johnston,2018-10-05,,8BF69077CL186974K
+205,91,Dorothy Smith,2018-10-05,,47397248XJ654733S
+206,91,Dorothy Smith,2018-10-05,,47397248XJ654733S
+207,91,Dorothy Smith,2018-10-05,,47397248XJ654733S
+208,454,Linda Johnston,2018-10-05,,8BF69077CL186974K
+209,91,Sandra Cross,2018-10-05,,5U520765FF291162T
+210,225,Dexter Busby,2018-10-02,,4JD58712SJ927435R
+211,225,Dexter Busby,2018-10-02,,4JD58712SJ927435R
+212,225,Dexter Busby,2018-10-02,,4JD58712SJ927435R
+213,91,Sandra Cross,2018-10-05,,5U520765FF291162T
+214,91,Dorothy Smith,2018-10-05,,47397248XJ654733S
+215,454,Linda Johnston,2018-10-05,,8BF69077CL186974K
+216,363,Sri Mukteshwaram,2018-10-06,,5A035632YA866772E
+217,289,Gladys Harrison,2018-10-16,,6WE75156A2233915L
+218,289,Gladys Harrison,2018-10-16,,6WE75156A2233915L
+219,225,Dexter Busby,2018-10-02,,4JD58712SJ927435R
+220,225,Dexter Busby,2018-10-02,,4JD58712SJ927435R
+221,225,Dexter Busby,2018-10-02,,4JD58712SJ927435R
+222,225,Dexter Busby,2018-10-02,,4JD58712SJ927435R
+223,289,Gladys Harrison,2018-10-16,,6WE75156A2233915L
+224,363,Sri Mukteshwaram,2018-10-06,,5A035632YA866772E
+225,454,Linda Johnston,2018-10-05,,8BF69077CL186974K
+226,234,cus_De4n5zO6yh7uHK,2018-10-21,,Försäljning av varor
+227,0,cus_Drw8UByx5Bvl25,2018-10-28,,Försäljning av varor
+228,-148,Roger Lamb,2018-05-17,,Försäljning av varor
+229,-148,Roger Lamb,2018-05-17,,Försäljning av varor
+230,-148,Roger Lamb,2018-05-17,,Försäljning av varor
+231,-148,Roger Lamb,2018-05-17,,Försäljning av varor
+232,-148,Roger Lamb,2018-05-17,,Försäljning av varor
+233,-148,Roger Lamb,2018-05-17,,Försäljning av varor
+234,-148,Roger Lamb,2018-05-17,,Försäljning av varor
+235,-148,Roger Lamb,2018-05-17,,Försäljning av varor
+236,-148,Roger Lamb,2018-05-17,,Försäljning av varor
+237,-148,Roger Lamb,2018-05-17,,Försäljning av varor
+238,124,Jonas@Kolvik.Nu,2018-10-19,,Försäljning av varor
+239,405,Patricia Schaeffer,2018-10-21,,43M33434GH895522S
+240,289,Gladys Harrison,2018-10-16,,6WE75156A2233915L
+241,363,Sri Mukteshwaram,2018-10-06,,5A035632YA866772E
+242,454,Linda Johnston,2018-10-05,,8BF69077CL186974K
+243,91,Dorothy Smith,2018-10-05,,47397248XJ654733S
+244,91,Sandra Cross,2018-10-05,,5U520765FF291162T
+245,225,Dexter Busby,2018-10-02,,4JD58712SJ927435R
+246,405,Patricia Schaeffer,2018-10-21,,43M33434GH895522S
+247,289,Gladys Harrison,2018-10-16,,6WE75156A2233915L
+248,363,Sri Mukteshwaram,2018-10-06,,5A035632YA866772E
+249,454,Linda Johnston,2018-10-05,,8BF69077CL186974K
+250,91,Dorothy Smith,2018-10-05,,47397248XJ654733S
+251,91,Sandra Cross,2018-10-05,,5U520765FF291162T
+252,225,Dexter Busby,2018-10-02,,4JD58712SJ927435R
+253,180,Mary Stoy,2018-10-02,,0JS70046KT972493T
+254,178,Brandon Hopkins,2018-10-01,,8F910581SM343135M
+255,178,Hima Bindu Duttuluri,2018-09-29,,1MX83339NL978601E
+256,176,Terry Marzuola,2018-09-27,,6C079776NL1368815
+257,177,Natalya Korzhuk,2018-09-26,,2RE78511KF6461629
+258,176,kathy linn,2018-09-25,,50Y66984NB248672J
+259,132,Lularoe with Jamie Manning,2018-09-24,,9WX3224503238824J
+260,237,debbie canning,2018-09-23,,9CC46343K7361994L
+261,44,Jamie Russell,2018-09-23,,6L575863EN1675741
+262,132,Beverly Stern,2018-09-22,,94665223WY355063H
+263,215,John Vallin,2018-05-08,,Försäljning av varor
+264,211,John Vallin,2018-05-15,,Försäljning av varor
+265,215,John Vallin,2018-05-08,,Försäljning av varor
+266,211,John Vallin,2018-05-15,,Försäljning av varor
+267,215,John Vallin,2018-05-08,,Försäljning av varor
+268,211,John Vallin,2018-05-15,,Försäljning av varor
+269,896,Anette Gustafsson,2018-10-28,,Försäljning av varor
+270,87,Rakedra Askew,2017-01-31,,6NY21632RK3067107
+271,87,Rakedra Askew,2017-01-31,,6NY21632RK3067107
+272,624,Lisbeth Halldin,2018-10-29,,Försäljning av varor
+273,87,Rakedra Askew,2017-01-31,,6NY21632RK3067107
+274,252,COLPOINT TECHNOLOGY LIMITED,2018-10-24,,99Y3910892938763N
+275,171,Gilbert Solis,2018-11-06,,Försäljning av varor
+276,252,COLPOINT TECHNOLOGY LIMITED,2018-10-24,,99Y3910892938763N
+277,252,COLPOINT TECHNOLOGY LIMITED,2018-10-24,,99Y3910892938763N
+278,234,cus_DceHUFensp1Aqt,2018-10-25,,Försäljning av varor
+279,25,cus_DVPtG6rqapOFrW,2018-11-09,,Försäljning av varor
+280,25,cus_DVPtG6rqapOFrW,2018-11-09,,Försäljning av varor
+281,100,cus_DkOQ35qs1vePmc,2018-11-08,,Försäljning av varor
+282,252,COLPOINT TECHNOLOGY LIMITED,2018-10-24,,99Y3910892938763N
+283,498,cus_DlEL2HcB3W4Ij3,2018-11-10,,Automatisera Mera - Order 1996
+284,178,cus_DknSEwkma3CE8r,2018-11-09,,Automatisera Mera - Order 1991
+285,99,cus_DwHONoblycTbvk,2018-11-09,,Automatisera Mera - Order 1987
+286,198,cus_DvRUDKQ3whD5h4,2018-11-06,,Automatisera Mera - Order 1980
+287,199,cus_DfbIicOCgVRJBw,2018-11-05,,Automatisera Mera - Order 1963
+288,199,cus_DfbIicOCgVRJBw,2018-11-05,,Automatisera Mera - Order 1834
+289,199,cus_DuzSom6W6gSxrS,2018-11-05,,Automatisera Mera - Order 1957
+290,239,cus_DuuWHvkhHBRu2c,2018-11-05,,Automatisera Mera - Order 1952
+291,199,cus_DuceNbZYp6Y9s1,2018-11-04,,Automatisera Mera - Order 1943
+292,199,cus_Dj0M3IGnlBoS0Z,2018-11-04,,Automatisera Mera - Order 1940
+293,498,cus_DlEL2HcB3W4Ij3,2018-11-10,,Automatisera Mera - Order 1996
+294,178,cus_DknSEwkma3CE8r,2018-11-09,,Automatisera Mera - Order 1991
+295,99,cus_DwHONoblycTbvk,2018-11-09,,Automatisera Mera - Order 1987
+296,198,cus_DvRUDKQ3whD5h4,2018-11-06,,Automatisera Mera - Order 1980
+297,199,cus_DfbIicOCgVRJBw,2018-11-05,,Automatisera Mera - Order 1963
+298,199,cus_DfbIicOCgVRJBw,2018-11-05,,Automatisera Mera - Order 1834
+299,199,cus_DuzSom6W6gSxrS,2018-11-05,,Automatisera Mera - Order 1957
+300,239,cus_DuuWHvkhHBRu2c,2018-11-05,,Automatisera Mera - Order 1952
+301,199,cus_DuceNbZYp6Y9s1,2018-11-04,,Automatisera Mera - Order 1943
+302,199,cus_Dj0M3IGnlBoS0Z,2018-11-04,,Automatisera Mera - Order 1940
+303,498,cus_DlEL2HcB3W4Ij3,2018-11-10,,Automatisera Mera - Order 1996
+304,178,cus_DknSEwkma3CE8r,2018-11-09,,Automatisera Mera - Order 1991
+305,99,cus_DwHONoblycTbvk,2018-11-09,,Automatisera Mera - Order 1987
+306,198,cus_DvRUDKQ3whD5h4,2018-11-06,,Automatisera Mera - Order 1980
+307,199,cus_DfbIicOCgVRJBw,2018-11-05,,Automatisera Mera - Order 1963
+308,199,cus_DfbIicOCgVRJBw,2018-11-05,,Automatisera Mera - Order 1834
+309,199,cus_DuzSom6W6gSxrS,2018-11-05,,Automatisera Mera - Order 1957
+310,239,cus_DuuWHvkhHBRu2c,2018-11-05,,Automatisera Mera - Order 1952
+311,199,cus_DuceNbZYp6Y9s1,2018-11-04,,Automatisera Mera - Order 1943
+312,199,cus_Dj0M3IGnlBoS0Z,2018-11-04,,Automatisera Mera - Order 1940
+313,239,Kund-ch_1,2018-11-12,,Automatisera Mera - Order 2008
+314,89,Kund-ch_1,2018-11-12,,Automatisera Mera - Order 2003
+315,548,Kund-ch_1,2018-11-12,,Automatisera Mera - Order 2000
+316,498,Kund-ch_1,2018-11-10,,Automatisera Mera - Order 1996
+317,178,Kund-ch_1,2018-11-09,,Automatisera Mera - Order 1991
+318,99,Kund-ch_1,2018-11-09,,Automatisera Mera - Order 1987
+319,198,Kund-ch_1,2018-11-06,,Automatisera Mera - Order 1980
+320,199,Kund-ch_1,2018-11-05,,Automatisera Mera - Order 1963
+321,199,Kund-ch_1,2018-11-05,,Automatisera Mera - Order 1834
+322,199,Kund-ch_1,2018-11-05,,Automatisera Mera - Order 1957
+323,239,Kund-1DVd,2018-11-12,,Automatisera Mera - Order 2008
+324,89,Kund-1DVc,2018-11-12,,Automatisera Mera - Order 2003
+325,548,Kund-1DVZ,2018-11-12,,Automatisera Mera - Order 2000
+326,498,Kund-1DUw,2018-11-10,,Automatisera Mera - Order 1996
+327,178,Kund-1DUw,2018-11-09,,Automatisera Mera - Order 1991
+328,99,Kund-1DUO,2018-11-09,,Automatisera Mera - Order 1987
+329,198,Kund-1DTa,2018-11-06,,Automatisera Mera - Order 1980
+330,199,Kund-1DTC,2018-11-05,,Automatisera Mera - Order 1963
+331,199,Kund-1DTa,2018-11-05,,Automatisera Mera - Order 1834
+332,199,Kund-1DT9,2018-11-05,,Automatisera Mera - Order 1957
+333,239,Kund-Df0V,2018-11-12,,Automatisera Mera - Order 2008
+334,89,Kund-Nw3W,2018-11-12,,Automatisera Mera - Order 2003
+335,548,Kund-yg9S,2018-11-12,,Automatisera Mera - Order 2000
+336,498,Kund-nPYA,2018-11-10,,Automatisera Mera - Order 1996
+337,178,Kund-D8Mp,2018-11-09,,Automatisera Mera - Order 1991
+338,99,Kund-h5Jt,2018-11-09,,Automatisera Mera - Order 1987
+339,198,Kund-YLPl,2018-11-06,,Automatisera Mera - Order 1980
+340,199,Kund-3Gqc,2018-11-05,,Automatisera Mera - Order 1963
+341,199,Kund-KyVt,2018-11-05,,Automatisera Mera - Order 1834
+342,199,Kund-jYVU,2018-11-05,,Automatisera Mera - Order 1957
+343,667,Ibrahim Elkhalil Ladjal,2018-11-10,,Order #ch_1DV1r6DPV5AS2cdqEN5elcT4
+344,4150,Amanda J Seabury,2018-11-09,,Order #ch_1DUPz7DPV5AS2cdq04Mi7RRm
+345,4150,Amanda J Seabury,2018-11-09,,Order #ch_1DUPvhDPV5AS2cdqgRk9mthu
+346,4150,Cameron Cornell,2018-11-09,,Order #ch_1DUOh2DPV5AS2cdqdNEwwjms
+347,4126,Amanda J Seabury,2018-11-07,,Order #ch_1DTj7kDPV5AS2cdqooav86Hm
+348,4126,Amanda J. Seabury,2018-11-07,,Order #ch_1DTj5JDPV5AS2cdqWaYQEZda
+349,4126,Amanda J Seabury,2018-11-07,,Order #ch_1DTj3nDPV5AS2cdqzb9deEoX
+350,1850,Jane G Holowchuk,2018-11-01,,Order #ch_1DRmbMDPV5AS2cdq3lyF8heD
+351,2480,Stephen J Cass,2018-11-01,,Order #ch_1DRhfyDPV5AS2cdq2aXgcBQv
+352,2480,Stephen Cass,2018-11-01,,Order #ch_1DRhf0DPV5AS2cdqNfpObXUU
+353,667,Ibrahim Elkhalil Ladjal,2018-11-10,,Order #ch_1DV1r6DPV5AS2cdqEN5elcT4
+354,4150,Amanda J Seabury,2018-11-09,,Order #ch_1DUPz7DPV5AS2cdq04Mi7RRm
+355,4150,Amanda J Seabury,2018-11-09,,Order #ch_1DUPvhDPV5AS2cdqgRk9mthu
+356,4150,Cameron Cornell,2018-11-09,,Order #ch_1DUOh2DPV5AS2cdqdNEwwjms
+357,4126,Amanda J Seabury,2018-11-07,,Order #ch_1DTj7kDPV5AS2cdqooav86Hm
+358,4126,Amanda J. Seabury,2018-11-07,,Order #ch_1DTj5JDPV5AS2cdqWaYQEZda
+359,4126,Amanda J Seabury,2018-11-07,,Order #ch_1DTj3nDPV5AS2cdqzb9deEoX
+360,1850,Jane G Holowchuk,2018-11-01,,Order #ch_1DRmbMDPV5AS2cdq3lyF8heD
+361,2480,Stephen J Cass,2018-11-01,,Order #ch_1DRhfyDPV5AS2cdq2aXgcBQv
+362,2480,Stephen Cass,2018-11-01,,Order #ch_1DRhf0DPV5AS2cdqNfpObXUU
+363,171,Gilbert A Solis,2018-11-11,,Order #ch_1DV0MFFR492eXXbBRptggqjj
+364,171,Gilbert A Solis,2018-11-11,,Order #ch_1DV0MFFR492eXXbBRptggqjj
+365,171,Gilbert A Solis,2018-11-11,,Order #ch_1DV0MFFR492eXXbBRptggqjj
+366,171,Gilbert A Solis,2018-11-11,,Order #ch_1DV0MFFR492eXXbBRptggqjj
+367,171,Elaine Neary ,2018-11-10,,Order #ch_1DUdbuFR492eXXbBjfBg97vj
+368,87,Rakedra Askew,2017-01-31,,6NY21632RK3067107
+369,87,Rakedra Askew,2017-01-31,,0U192752YD172714K
+370,87,Alexa Sweeney,2017-01-31,,00802306EH8485615
+371,87,Alexa Sweeney,2017-01-31,,5WE75149U5216061E
+372,87,Rakedra Askew,2017-01-31,,6NY21632RK3067107
+373,87,Rakedra Askew,2017-01-31,,6NY21632RK3067107
+374,87,Rakedra Askew,2017-01-31,,0U192752YD172714K
+375,87,Alexa Sweeney,2017-01-31,,00802306EH8485615
+376,87,Rakedra Askew,2017-01-31,,6NY21632RK3067107
+377,87,Rakedra Askew,2017-01-31,,6NY21632RK3067107
+378,148,Roger Lamb,2018-05-17,,Försäljning av varor
+379,215,John Vallin,2018-05-08,,Försäljning av varor
+380,211,John Vallin,2018-05-15,,Försäljning av varor
+381,327,David Pettersson,2018-05-06,,Försäljning av varor
+382,318,David Pettersson,2018-05-13,,Försäljning av varor
+383,260,Roger Lamb,2018-04-19,,Försäljning av varor
+384,142,Roger Lamb,2018-04-19,,Försäljning av varor
+385,148,Roger Lamb,2018-05-17,,Försäljning av varor
+386,215,John Vallin,2018-05-08,,Försäljning av varor
+387,211,John Vallin,2018-05-15,,Försäljning av varor
+388,327,David Pettersson,2018-05-06,,Försäljning av varor
+389,318,David Pettersson,2018-05-13,,Försäljning av varor
+390,260,Roger Lamb,2018-04-19,,Försäljning av varor
+391,142,Roger Lamb,2018-04-19,,Försäljning av varor
+392,148,Roger Lamb,2018-05-17,,Order #c3771393343555.1
+393,148,Roger Lamb,2018-05-17,,Order #ch_1CSi1IG3nNF6PQizN09PQhJu
+394,215,John Vallin,2018-05-08,,Order #ch_1CPWZMG3nNF6PQiz8asqfF3j
+395,669,Kund- 4736,2018-10-29,, 4736
+396,669,Kund- 4736,2018-10-29,, 4736
+397,669,Kund- 4736,2018-10-29,, 4736
+398,669,Kund- 4736,2018-10-29,, 4736
+399,669,Kund- 4736,2018-10-29,, 4736
+400,669,Kund- 4736,2018-10-29,, 4736
+401,669,Kund- 4736,2018-10-29,, 4736
+402,669,Kund- 4736,2018-10-29,, 4736
+403,669,Kund- 4736,2018-10-29,, 4736
+404,669,Kund- 4736,2018-10-29,, 4736
+405,669,Kund- 4736,2018-10-29,, 4736
+406,669,Kund- 4736,2018-10-29,, 4736
+407,669,Kund- 4736,2018-10-29,, 4736
+408,669,Kund- 4736,2018-10-29,, 4736
+409,669,Kund- 4736,2018-10-29,, 4736
+410,669,Kund- 4736,2018-10-29,, 4736
+411,669,Kund- 4736,2018-10-29,, 4736
+412,-3460,Kund- 121645263,2018-10-29,, 121645263
+413,1129,Arni Valdason,2018-11-14,,9E543286TS9006232
+414,524,Kund-12598,2018-10-24,,12598
+415,15,Kund-12598,2018-10-24,,12598
+416,524,Kund-12598,2018-10-24,,12598
+417,15,Kund-12598,2018-10-24,,12598
+418,524,Kund-12598,2018-10-24,,12598
+419,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2053
+420,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2049
+421,39,Anna Nordberg,2018-11-18,,Automatisera Mera - Order 2046
+422,198,Markus Maliszewski,2018-11-18,,Automatisera Mera - Order 2043
+423,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2053
+424,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2049
+425,39,Anna Nordberg,2018-11-18,,Automatisera Mera - Order 2046
+426,198,Markus Maliszewski,2018-11-18,,Automatisera Mera - Order 2043
+427,199,Frida Ekström,2018-11-15,,Automatisera Mera - Order 2036
+428,299,Frida Ekström,2018-11-15,,Automatisera Mera - Order 2033
+429,249,John Sällberg,2018-11-14,,Automatisera Mera - Order 2028
+430,239,Gilbert Holmgren,2018-11-12,,Automatisera Mera - Order 2008
+431,89,Peter Ocken,2018-11-12,,Automatisera Mera - Order 2003
+432,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2053
+433,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2049
+434,39,Anna Nordberg,2018-11-18,,Automatisera Mera - Order 2046
+435,198,Markus Maliszewski,2018-11-18,,Automatisera Mera - Order 2043
+436,199,Frida Ekström,2018-11-15,,Automatisera Mera - Order 2036
+437,299,Frida Ekström,2018-11-15,,Automatisera Mera - Order 2033
+438,249,John Sällberg,2018-11-14,,Automatisera Mera - Order 2028
+439,239,Gilbert Holmgren,2018-11-12,,Automatisera Mera - Order 2008
+440,89,Peter Ocken,2018-11-12,,Automatisera Mera - Order 2003
+441,548,Fredrik Johansson,2018-11-12,,Automatisera Mera - Order 2000
+442,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2053
+443,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2049
+444,39,Anna Nordberg,2018-11-18,,Automatisera Mera - Order 2046
+445,198,Markus Maliszewski,2018-11-18,,Automatisera Mera - Order 2043
+446,199,Frida Ekström,2018-11-15,,Automatisera Mera - Order 2036
+447,299,Frida Ekström,2018-11-15,,Automatisera Mera - Order 2033
+448,249,John Sällberg,2018-11-14,,Automatisera Mera - Order 2028
+449,239,Gilbert Holmgren,2018-11-12,,Automatisera Mera - Order 2008
+450,89,Peter Ocken,2018-11-12,,Automatisera Mera - Order 2003
+451,548,Fredrik Johansson,2018-11-12,,Automatisera Mera - Order 2000
+452,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2053
+453,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2049
+454,39,Anna Nordberg,2018-11-18,,Automatisera Mera - Order 2046
+455,198,Markus Maliszewski,2018-11-18,,Automatisera Mera - Order 2043
+456,199,Frida Ekström,2018-11-15,,Automatisera Mera - Order 2036
+457,299,Frida Ekström,2018-11-15,,Automatisera Mera - Order 2033
+458,249,John Sällberg,2018-11-14,,Automatisera Mera - Order 2028
+459,239,Gilbert Holmgren,2018-11-12,,Automatisera Mera - Order 2008
+460,89,Peter Ocken,2018-11-12,,Automatisera Mera - Order 2003
+461,548,Fredrik Johansson,2018-11-12,,Automatisera Mera - Order 2000
+462,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2053
+463,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2049
+464,39,Anna Nordberg,2018-11-18,,Automatisera Mera - Order 2046
+465,198,Markus Maliszewski,2018-11-18,,Automatisera Mera - Order 2043
+466,199,Frida Ekström,2018-11-15,,Automatisera Mera - Order 2036
+467,299,Frida Ekström,2018-11-15,,Automatisera Mera - Order 2033
+468,249,John Sällberg,2018-11-14,,Automatisera Mera - Order 2028
+469,239,Gilbert Holmgren,2018-11-12,,Automatisera Mera - Order 2008
+470,89,Peter Ocken,2018-11-12,,Automatisera Mera - Order 2003
+471,548,Fredrik Johansson,2018-11-12,,Automatisera Mera - Order 2000
+472,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2053
+473,89,Carina Mårtensson,2018-11-18,,Automatisera Mera - Order 2049
+474,39,Anna Nordberg,2018-11-18,,Automatisera Mera - Order 2046
+475,198,Markus Maliszewski,2018-11-18,,Automatisera Mera - Order 2043
+476,199,Frida Ekström,2018-11-15,,Automatisera Mera - Order 2036
+477,299,Frida Ekström,2018-11-15,,Automatisera Mera - Order 2033
+478,249,John Sällberg,2018-11-14,,Automatisera Mera - Order 2028
+479,239,Gilbert Holmgren,2018-11-12,,Automatisera Mera - Order 2008
+480,89,Peter Ocken,2018-11-12,,Automatisera Mera - Order 2003
+481,548,Fredrik Johansson,2018-11-12,,Automatisera Mera - Order 2000
+482,498,Hampus Karlsson,2018-11-10,,Automatisera Mera - Order 1996
+483,498,Hampus Karlsson,2018-11-17,,Automatisera Mera - Order 1996
+484,178,Dean Maros,2018-11-09,,Automatisera Mera - Order 1991
+485,99,Magnus Gustafsson,2018-11-09,,Automatisera Mera - Order 1987
+486,198,Bernt Olsson,2018-11-06,,Automatisera Mera - Order 1980
+487,199,Simon Färninger,2018-11-05,,Automatisera Mera - Order 1963
+488,199,Simon Färninger,2018-11-05,,Automatisera Mera - Order 1834
+489,199,Olof Bendt,2018-11-05,,Automatisera Mera - Order 1957
+490,239,Daniel Lindblom,2018-11-05,,Automatisera Mera - Order 1952
+491,199,Johan Sterling,2018-11-04,,Automatisera Mera - Order 1943
+492,199,Kalle Ljung,2018-11-04,,Automatisera Mera - Order 1940
+493,89,Richard Muthwill,2018-11-01,,Automatisera Mera - Order 1908
+494,89,Richard Muthwill,2018-11-04,,Automatisera Mera - Order 1908
+495,189,Daniel Hansson,2018-10-31,,Automatisera Mera - Order 1902
+496,189,Daniel Hansson,2018-11-13,,Automatisera Mera - Order 1902
+497,289,Daniel Hansson,2018-10-31,,Automatisera Mera - Order 1897
+498,289,Daniel Hansson,2018-11-13,,Automatisera Mera - Order 1897
+499,249,Jakob Nordström,2018-10-31,,Automatisera Mera - Order 1893
+500,189,Greger Hillman,2018-10-30,,Automatisera Mera - Order 1887
+501,199,Leyla Bekir,2018-10-30,,Automatisera Mera - Order 1883
+502,289,Rikard Sjöblom,2018-10-30,,Automatisera Mera - Order 1876
+503,199,Johan Steling,2018-10-29,,Automatisera Mera - Order 1871
+504,199,Johan Steling,2018-11-04,,Automatisera Mera - Order 1871
+505,7,Johan Sterling,2018-10-29,,Automatisera Mera - Order 1867
+506,7,Johan Sterling,2018-11-04,,Automatisera Mera - Order 1867
+507,10,Johan  Sterling,2018-10-29,,Automatisera Mera - Order 1861
+508,10,Johan  Sterling,2018-11-04,,Automatisera Mera - Order 1861
+509,129,Rebecca Salinas,2016-10-07,,Order #ch_19265CFR492eXXbBh6YI02eE
+510,86,Rachel Hollingshead,2016-10-07,,Order #ch_191pRgFR492eXXbBshuHBAJx
+511,86,Mandy Luna,2016-10-04,,Order #ch_190hqMFR492eXXbBfjIcILb2
+512,86,Stefanie Bereza ,2016-10-02,,Order #ch_190JQhFR492eXXbBnQtl4gvW
+513,86,Stefanie Bereza ,2016-10-02,,Order #ch_190JQ0FR492eXXbBZyzL9mB7
+514,86,Jannice Lee Carini,2016-10-01,,Order #ch_18zps4FR492eXXbBNkmhX7Py
+515,214,Leonardo Iker De Souza Valladao,2016-09-29,,Order #ch_18yvtaFR492eXXbBPiI7GAvf
+516,85,Johan Streling,2016-09-18,,Order #ch_18vD4gFR492eXXbBePmktd7m
+517,123,Johan Streling,2016-09-18,,Order #ch_18usrqFR492eXXbBX1PJr90X
+518,106,Johan Streling,2016-09-17,,Order #ch_18us1LFR492eXXbBMs00pImN
+519,85,Johan Streling,2016-09-14,,Order #ch_18tg1mFR492eXXbBgVVcIB1I
+520,84,Johan Streling,2016-09-09,,Order #ch_18roiJFR492eXXbBWV61mrZC
+521,51,Arlette Fabian,2016-08-31,,Order #ch_18odbLFR492eXXbBCrxsWour
+522,142,Eryn Maitland,2016-08-28,,Order #ch_18nJIVFR492eXXbBph5T2axs
+523,142,Eryn Maitland,2016-08-28,,Order #ch_18nJHIFR492eXXbB69UdKEV1
+524,50,Luke A. Collins,2016-08-22,,Order #ch_18l9SAFR492eXXbB1Zzu3UFe
+525,218,Payton A Gliane,2016-08-19,,Order #ch_18kJQwFR492eXXbBWTV4bgV6
+526,129,Rebecca Salinas,2016-10-07,,Order #ch_19265CFR492eXXbBh6YI02eE
+527,86,Rachel Hollingshead,2016-10-07,,Order #ch_191pRgFR492eXXbBshuHBAJx
+528,86,Mandy Luna,2016-10-04,,Order #ch_190hqMFR492eXXbBfjIcILb2
+529,86,Stefanie Bereza ,2016-10-02,,Order #ch_190JQhFR492eXXbBnQtl4gvW
+530,86,Stefanie Bereza ,2016-10-02,,Order #ch_190JQ0FR492eXXbBZyzL9mB7
+531,86,Jannice Lee Carini,2016-10-01,,Order #ch_18zps4FR492eXXbBNkmhX7Py
+532,214,Leonardo Iker De Souza Valladao,2016-09-29,,Order #ch_18yvtaFR492eXXbBPiI7GAvf
+533,85,Johan Streling,2016-09-18,,Order #ch_18vD4gFR492eXXbBePmktd7m
+534,123,Johan Streling,2016-09-18,,Order #ch_18usrqFR492eXXbBX1PJr90X
+535,106,Johan Streling,2016-09-17,,Order #ch_18us1LFR492eXXbBMs00pImN
+536,85,Johan Streling,2016-09-14,,Order #ch_18tg1mFR492eXXbBgVVcIB1I
+537,84,Johan Streling,2016-09-09,,Order #ch_18roiJFR492eXXbBWV61mrZC
+538,51,Arlette Fabian,2016-08-31,,Order #ch_18odbLFR492eXXbBCrxsWour
+539,142,Eryn Maitland,2016-08-28,,Order #ch_18nJIVFR492eXXbBph5T2axs
+540,142,Eryn Maitland,2016-08-28,,Order #ch_18nJHIFR492eXXbB69UdKEV1
+541,50,Luke A. Collins,2016-08-22,,Order #ch_18l9SAFR492eXXbB1Zzu3UFe
+542,218,Payton A Gliane,2016-08-19,,Order #ch_18kJQwFR492eXXbBWTV4bgV6
+543,50,Jamie H Parker,2016-08-19,,Order #ch_18kJKnFR492eXXbByPDqUlTO
+544,143,Jordan Elizabeth Busse,2016-08-17,,Order #ch_18jVXKFR492eXXbBih0YwUbY
+545,143,Jordan Elizabeth Busse,2016-08-17,,Order #ch_18jVUmFR492eXXbBPdp7JcvB
+546,307,Joy L Shannon,2018-11-19,,Order #ch_1DY2KnFR492eXXbBuHNq232l
+547,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwrrFR492eXXbBknvhTB7t
+548,487,Marilyn S. Steffen,2018-11-18,,Order #ch_1DXwW4FR492eXXbBPynPUZvh
+549,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwUuFR492eXXbBPpJmYzDs
+550,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwU3FR492eXXbB5v992EyV
+551,189,Mrs E Mcwilliams ,2018-11-18,,Order #ch_1DXo6gFR492eXXbBO4O2vgjA
+552,217,Dinah Vandelinder,2018-11-15,,Order #ch_1DWpPrFR492eXXbB7VmCRuRR
+553,171,Gilbert A Solis,2018-11-10,,Order #ch_1DV0MFFR492eXXbBRptggqjj
+554,171,Elaine Neary ,2018-11-09,,Order #ch_1DUdbuFR492eXXbBjfBg97vj
+555,269,Doris Rodarte,2018-11-07,,Order #ch_1DTeb4FR492eXXbBoMP8HcsT
+556,307,Joy L Shannon,2018-11-19,,Order #ch_1DY2KnFR492eXXbBuHNq232l
+557,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwrrFR492eXXbBknvhTB7t
+558,487,Marilyn S. Steffen,2018-11-18,,Order #ch_1DXwW4FR492eXXbBPynPUZvh
+559,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwUuFR492eXXbBPpJmYzDs
+560,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwU3FR492eXXbB5v992EyV
+561,189,Mrs E Mcwilliams ,2018-11-18,,Order #ch_1DXo6gFR492eXXbBO4O2vgjA
+562,217,Dinah Vandelinder,2018-11-15,,Order #ch_1DWpPrFR492eXXbB7VmCRuRR
+563,171,Gilbert A Solis,2018-11-10,,Order #ch_1DV0MFFR492eXXbBRptggqjj
+564,171,Elaine Neary ,2018-11-09,,Order #ch_1DUdbuFR492eXXbBjfBg97vj
+565,269,Doris Rodarte,2018-11-07,,Order #ch_1DTeb4FR492eXXbBoMP8HcsT
+566,307,Joy L Shannon,2018-11-19,,Order #ch_1DY2KnFR492eXXbBuHNq232l
+567,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwrrFR492eXXbBknvhTB7t
+568,487,Marilyn S. Steffen,2018-11-18,,Order #ch_1DXwW4FR492eXXbBPynPUZvh
+569,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwUuFR492eXXbBPpJmYzDs
+570,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwU3FR492eXXbB5v992EyV
+571,189,Mrs E Mcwilliams ,2018-11-18,,Order #ch_1DXo6gFR492eXXbBO4O2vgjA
+572,217,Dinah Vandelinder,2018-11-15,,Order #ch_1DWpPrFR492eXXbB7VmCRuRR
+573,171,Gilbert A Solis,2018-11-10,,Order #ch_1DV0MFFR492eXXbBRptggqjj
+574,171,Elaine Neary ,2018-11-09,,Order #ch_1DUdbuFR492eXXbBjfBg97vj
+575,269,Doris Rodarte,2018-11-07,,Order #ch_1DTeb4FR492eXXbBoMP8HcsT
+576,129,Rebecca Salinas,2016-10-07,,Order #ch_19265CFR492eXXbBh6YI02eE
+577,86,Rachel Hollingshead,2016-10-07,,Order #ch_191pRgFR492eXXbBshuHBAJx
+578,86,Mandy Luna,2016-10-04,,Order #ch_190hqMFR492eXXbBfjIcILb2
+579,86,Stefanie Bereza ,2016-10-02,,Order #ch_190JQhFR492eXXbBnQtl4gvW
+580,86,Stefanie Bereza ,2016-10-02,,Order #ch_190JQ0FR492eXXbBZyzL9mB7
+581,86,Jannice Lee Carini,2016-10-01,,Order #ch_18zps4FR492eXXbBNkmhX7Py
+582,214,Leonardo Iker De Souza Valladao,2016-09-29,,Order #ch_18yvtaFR492eXXbBPiI7GAvf
+583,85,Johan Streling,2016-09-18,,Order #ch_18vD4gFR492eXXbBePmktd7m
+584,123,Johan Streling,2016-09-18,,Order #ch_18usrqFR492eXXbBX1PJr90X
+585,106,Johan Streling,2016-09-17,,Order #ch_18us1LFR492eXXbBMs00pImN
+586,129,Rebecca Salinas,2016-10-07,,Order #ch_19265CFR492eXXbBh6YI02eE
+587,86,Rachel Hollingshead,2016-10-07,,Order #ch_191pRgFR492eXXbBshuHBAJx
+588,86,Mandy Luna,2016-10-04,,Order #ch_190hqMFR492eXXbBfjIcILb2
+589,86,Stefanie Bereza ,2016-10-02,,Order #ch_190JQhFR492eXXbBnQtl4gvW
+590,86,Stefanie Bereza ,2016-10-02,,Order #ch_190JQ0FR492eXXbBZyzL9mB7
+591,86,Jannice Lee Carini,2016-10-01,,Order #ch_18zps4FR492eXXbBNkmhX7Py
+592,214,Leonardo Iker De Souza Valladao,2016-09-29,,Order #ch_18yvtaFR492eXXbBPiI7GAvf
+593,85,Johan Streling,2016-09-18,,Order #ch_18vD4gFR492eXXbBePmktd7m
+594,123,Johan Streling,2016-09-18,,Order #ch_18usrqFR492eXXbBX1PJr90X
+595,106,Johan Streling,2016-09-17,,Order #ch_18us1LFR492eXXbBMs00pImN
+596,129,Rebecca Salinas,2016-10-07,,Order #ch_19265CFR492eXXbBh6YI02eE
+597,86,Rachel Hollingshead,2016-10-07,,Order #ch_191pRgFR492eXXbBshuHBAJx
+598,86,Mandy Luna,2016-10-04,,Order #ch_190hqMFR492eXXbBfjIcILb2
+599,307,Joy L Shannon,2018-11-19,,Order #ch_1DY2KnFR492eXXbBuHNq232l
+600,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwrrFR492eXXbBknvhTB7t
+601,487,Marilyn S. Steffen,2018-11-18,,Order #ch_1DXwW4FR492eXXbBPynPUZvh
+602,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwUuFR492eXXbBPpJmYzDs
+603,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwU3FR492eXXbB5v992EyV
+604,189,Mrs E Mcwilliams ,2018-11-18,,Order #ch_1DXo6gFR492eXXbBO4O2vgjA
+605,217,Dinah Vandelinder,2018-11-15,,Order #ch_1DWpPrFR492eXXbB7VmCRuRR
+606,171,Gilbert A Solis,2018-11-10,,Order #ch_1DV0MFFR492eXXbBRptggqjj
+607,171,Elaine Neary ,2018-11-09,,Order #ch_1DUdbuFR492eXXbBjfBg97vj
+608,269,Doris Rodarte,2018-11-07,,Order #ch_1DTeb4FR492eXXbBoMP8HcsT
+609,307,Myra Ballinger ,2018-11-19,,Order #ch_1DY7t3FR492eXXbBXa7mWtmt
+610,307,Myra Ballinger ,2018-11-19,,Order #ch_1DY7qwFR492eXXbBChgDR0iQ
+611,307,Joy L Shannon,2018-11-19,,Order #ch_1DY2KnFR492eXXbBuHNq232l
+612,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwrrFR492eXXbBknvhTB7t
+613,487,Marilyn S. Steffen,2018-11-18,,Order #ch_1DXwW4FR492eXXbBPynPUZvh
+614,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwUuFR492eXXbBPpJmYzDs
+615,487,Marilyn Steffen,2018-11-18,,Order #ch_1DXwU3FR492eXXbB5v992EyV
+616,189,Mrs E Mcwilliams ,2018-11-18,,Order #ch_1DXo6gFR492eXXbBO4O2vgjA
+617,217,Dinah Vandelinder,2018-11-15,,Order #ch_1DWpPrFR492eXXbB7VmCRuRR
+618,171,Gilbert A Solis,2018-11-10,,Order #ch_1DV0MFFR492eXXbBRptggqjj
+619,171,Elaine Neary ,2018-11-09,,Order #ch_1DUdbuFR492eXXbBjfBg97vj
+620,269,Doris Rodarte,2018-11-07,,Order #ch_1DTeb4FR492eXXbBoMP8HcsT
+621,171,Gilbert Solis,2018-11-06,,Order #ch_1DTLhKFR492eXXbBUhh3PlxD
+622,171,Gilbert A Solis,2018-11-06,,Order #ch_1DTLgzFR492eXXbBF9WXC6K1
+623,171,Gilbert A Solis,2018-11-06,,Order #ch_1DTKgvFR492eXXbBYLPY91ob
+624,144,Gilbert A Solis,2018-11-06,,Order #ch_1DTKeiFR492eXXbBbt9P4leN
+625,238,Hugo Cesar,2018-11-03,,Order #ch_1DSJ7oFR492eXXbBh3R3Q1Tq
+626,270,Natalie Slack,2018-11-03,,Order #ch_1DSGgsFR492eXXbBsi3VwRyc
+627,171,Chase C Wurth ,2018-11-01,,Order #ch_1DRUm6FR492eXXbBo9HKjx80
+628,174,Chan Wing Yee,2018-10-31,,Order #ch_1DRAVfFR492eXXbBzwUhKjqr
+629,174,Jose Anton,2018-10-31,,Order #ch_1DR95YFR492eXXbBrvPkivoO
+630,172,Douglas Gatrell,2018-10-24,,Order #ch_1DOmbjFR492eXXbBv0di5p8i
+631,270,Anthony Migliorini ,2018-10-23,,Order #ch_1DOFnSFR492eXXbBaGqntFiu
+632,170,Karla Veintimilla,2018-10-22,,Order #ch_1DODHwFR492eXXbBbsA9rAM6
+633,170,Nadiia Burmus ,2018-10-22,,Order #ch_1DO7HKFR492eXXbByYPH3mmI
+634,170,Charles Shipman,2018-10-21,,Order #ch_1DNUOfFR492eXXbB8im5h34I
+635,170,Carl B. Bellehumeur,2018-10-20,,Order #ch_1DNQUxFR492eXXbB1z6HQ5QK
+636,170,Beatriz Alvarado Reynoso,2018-10-20,,Order #ch_1DNPeoFR492eXXbBnEghCb4h
+637,116,Rachel White,2018-10-17,,Order #ch_1DM9FqFR492eXXbBO1AhTuD3
+638,169,Rachel White,2018-10-17,,Order #ch_1DM98AFR492eXXbBBClbEeNl
+639,168,Veronika Neugebauerová,2018-10-16,,Order #ch_1DLqDuFR492eXXbBC1zGmpKN
+640,168,Maria Oosthuizen,2018-10-16,,Order #ch_1DLmUhFR492eXXbBGT5OMqes
+641,268,Ebelia Lozano,2018-10-15,,Order #ch_1DLLCiFR492eXXbBT1SSi7K5
+642,268,Amanda Crosby,2018-10-13,,Order #ch_1DKrDDFR492eXXbBTZzbzoR6
+643,268,Amanda Crosby,2018-10-13,,Order #ch_1DKrBSFR492eXXbBdFRuj9Qi
+644,169,William Rang,2018-10-13,,Order #ch_1DKf1XFR492eXXbB4ZFmAp0T
+645,143,Chen Yifrach,2018-10-11,,Order #ch_1DK4aSFR492eXXbBloKT9o5F
+646,170,Octavio Montoya Dominguez,2018-10-11,,Order #ch_1DJrbcFR492eXXbB2wzkTtWW
+647,172,B M Allmann,2018-10-10,,Order #ch_1DJnVWFR492eXXbBNjexzm5p
+648,154,Abigail Griscti,2018-10-10,,Order #ch_1DJkmOFR492eXXbBZGctpjPe
+649,148,Roger Lamb,2018-05-17,,Order #ch_1CSi1IG3nNF6PQizN09PQhJu
+650,215,John Vallin,2018-05-08,,Order #ch_1CPWZMG3nNF6PQiz8asqfF3j
+651,211,John Vallin,2018-05-15,,Order #ch_1CPWZMG3nNF6PQiz8asqfF3j
+652,327,David Pettersson,2018-05-06,,Order #ch_1COe9fG3nNF6PQizzJTS7H02
+653,318,David Pettersson,2018-05-13,,Order #ch_1COe9fG3nNF6PQizzJTS7H02
+654,260,Roger Lamb,2018-04-19,,Order #ch_1CIZw8G3nNF6PQizmRoDF9pO
+655,142,Roger Lamb,2018-04-19,,Order #ch_1CIZqhG3nNF6PQizVxZIEE6k
+656,82548,Ar Han,2018-03-02,,Order #ch_1C1Es1G3nNF6PQiz2pNiJJ5m
+657,1709,John Vanderheiden,2018-02-22,,Order #ch_1By7vlG3nNF6PQizEXnZ1bv6
+658,1709,John Vanderheiden,2018-02-22,,Order #ch_1By7rxG3nNF6PQizwUYFv6UF
+659,486,Anita Eland,2018-02-09,,Order #ch_1BthT1G3nNF6PQizR1tDGlHw
+660,353,Ibrahim Elkhalil Ladjal,2018-02-02,,Order #ch_1BrD8KG3nNF6PQizIsrKDf59
+661,353,Ibrahim Elkhalil Ladjal,2018-02-02,,Order #ch_1BrD55G3nNF6PQizgzAE0fI7
+662,945,Judith A Ginsburg,2018-01-27,,Order #ch_1Boit3G3nNF6PQizUfkkEli8
+663,225,Diard Olluri,2018-01-21,,Order #ch_1BmXq1G3nNF6PQizlt8FsB99
+664,225,Diard Olluri,2018-01-21,,Order #ch_1BmXd3G3nNF6PQizMbfia4br
+665,225,Diard Olluri,2018-01-21,,Order #ch_1BmXTDG3nNF6PQizosChdZrN
+666,225,Diard Olluri,2018-01-21,,Order #ch_1BmXDkG3nNF6PQizKoHyexWY
+667,225,Diard Olluri,2018-01-21,,Order #ch_1BmX32G3nNF6PQizx0REV183
+668,80,Ana Lucia Alvarez Ulate,2018-01-16,,Order #ch_1Bkw7JG3nNF6PQizEb0zNnMT
+669,264,Mauricio Herrera,2018-01-15,,Order #ch_1BkavTG3nNF6PQizubS68sO1
+670,82645,Teresa Guindo,2018-01-12,,Order #ch_1BjOWbG3nNF6PQizMhZ5CSMm
+671,82,benjamin green,2017-01-05,,8W012581NF339550T
+672,82,Thomas Martin,2017-01-02,,7R352068UE391213V
+673,82,Thomas Martin,2017-01-02,,7R352068UE391213V
+674,82,Arthur Miner,2017-01-02,,26Y009316P1215345
+675,82,Terrence Jones,2017-01-02,,2BD48596S4828790Y
+676,82,Donald Harris,2017-01-02,,7R491984SX5289106
+677,82,Charles Smith,2017-01-02,,9F371410AC417202G
+678,82,Donald Harris,2017-01-02,,43U45223YJ568532T
+679,82,howard ausborn,2017-01-02,,5VV38308EN512020W
+680,82,howard ausborn,2017-01-02,,3HJ15176597387013
+681,82,greg peterman,2017-01-02,,44H783767K3405601
+682,82,Paul McMurray,2017-01-02,,7WC68123SU419690E
+683,82,ronny wheeler,2017-01-02,,0JG84546JF3402203
+684,82,Peggy Wuest,2017-01-02,,1GT61573XY1617117
+685,82,Donald Davenport,2017-01-02,,1CP65728NJ999650R
+686,82,Donald Davenport,2017-01-02,,3UE27100AL367914Y
+687,82,JOE H. MIXON,2017-01-02,,8HX24999KK8127442
+688,82,George Ehrlinger,2017-01-02,,9YT89437MS868604T
+689,82,George Ehrlinger,2017-01-02,,13507394BT8542052
+690,82,George Ehrlinger,2017-01-02,,6B796494SY960135J
+691,82,Kyle Underwood,2017-01-02,,8S5752238C178670M
+692,82,Prince Brown,2017-01-02,,91373880UY237991J
+693,82,Robin  Botts,2017-01-02,,28V62027L41883113
+694,82,mike lambert,2017-01-02,,5DV91408FG8931741
+695,82,Joseph Jourdan,2017-01-02,,9F562279A12991933
+696,82,LEONARD LYONS,2017-01-02,,93A85754KL5026609
+697,82,James Bryan,2017-01-02,,9LX26823EM893501S
+698,82,edward risley,2017-01-02,,20T363622F849463M
+699,82,John Lebert,2017-01-02,,9H347729VP894903W
+700,82,Chris Fischer,2017-01-02,,5AN317075F502183Y
+701,82,FBC PRODUCTIONS,2017-01-02,,3U241359H01797328
+702,82,FBC PRODUCTIONS,2017-01-02,,0X179887GJ765460E
+703,91,Jerry Goodwin,2017-01-02,,7ET983124S263480L
+704,82,Joseph Rohrer,2017-01-02,,1TC95740S8761800N
+705,82,Perry Peterson,2017-01-02,,8759775013727844W
+706,82,Steven Pasillas,2017-01-02,,2DS83570X16120030
+707,82,anthony wells,2017-01-02,,0UF72629LB0204145
+708,82,Danny Sandt,2017-01-02,,88502523BC092781M
+709,82,Thomas L Smith,2017-01-02,,2FK177361V195054H
+710,82,Theresa M Ream,2017-01-02,,3L076699LC6509515
+711,82,Gleen Cooper Jr,2017-01-02,,4W8939412N534303A
+712,82,John Lang,2017-01-02,,5YM101770A6186535
+713,82,B J Schwartz,2017-01-02,,2VK1066424750122Y
+714,82,Edward Luniewski,2017-01-02,,78B53473DC561803G
+715,82,Edward Luniewski,2017-01-02,,16S92025B7889652N
+716,82,Joseph Rohrer,2017-01-02,,7LA24743G1012583Y
+717,82,SHIRLEY PARSONS,2017-01-02,,15D54525LG457090B
+718,82,Gayle Nevins,2017-01-02,,9DG92988U2576721C
+719,82,robert baker,2017-01-02,,71U90078H93998642
+720,82,HERMAN ORDONEZ,2017-01-02,,1MY98621TU352625H
+721,82,Kerman Bharucha,2017-01-02,,0D063892A1277650L
+722,82,Patricia McGovern,2017-01-02,,01D95104EU962330U
+723,82,James Winner,2017-01-02,,0J4117951E796215L
+724,82,James Winner,2017-01-02,,0AR232402U4211540
+725,82,thomas hyndman,2017-01-02,,5FK16828LB176453G
+726,82,William C Meyer,2017-01-02,,9AC031844R782180W
+727,82,William C Meyer,2017-01-02,,4N3863393X291261P
+728,82,Charles Culligan,2017-01-02,,0FV93008YA594191W
+729,82,Steven Loizos,2017-01-02,,8MW27433BX8957600
+730,82,Jerome Scott Jr,2017-01-02,,3GJ97161026157746
+731,82,raymond dozier,2017-01-02,,63L48306NK0498505
+732,82,MICHAEL CROW,2017-01-02,,3C112225ST4256101
+733,82,Denis Frederickson,2017-01-02,,63404171SJ7607602
+734,82,LUKE WILLIAMS,2017-01-02,,6J61055738019333J
+735,82,LeRoy Garman,2017-01-02,,6DV62057NV3581719
+736,82,Gary W Davis,2017-01-02,,43F76199DT076815F
+737,82,Russell Hakes,2017-01-02,,4E911896F5184364E
+738,91,Jerry Goodwin,2017-01-02,,0S10474830010680J
+739,82,Charles Evans,2017-01-02,,4HG48162F10359938
+740,82,Francisco Coronado,2017-01-02,,84B57022H11122536
+741,82,Benjamin Ira Schultz,2017-01-01,,4TL00809WH148774G
+742,82,Steven Kilts,2017-01-01,,7T6782090T616491T
+743,82,Shigekazu Omori,2017-01-01,,9KL843953A074520H
+744,82,Thomas Ramsay,2017-01-01,,6FA06732KE464493W
+745,82,JAMES Ford,2017-01-01,,5PT0252860741425E
+746,82,william berger,2017-01-01,,5Y167714EA613954S
+747,82,robert francis,2017-01-01,,0DY23770G8266583P
+748,82,william berger,2017-01-01,,8LD94710S22619843
+749,82,curt raulston,2017-01-01,,40674608Y1965471A
+750,82,RONALD DUSSEAU,2017-01-01,,2DX002634H404711A
+751,82,Robert Williams,2017-01-01,,4EU281837E446415E
+752,82,Jampatc60,2017-01-01,,5HX90448T9065672V
+753,82,Fox Music USA,2017-01-01,,13N155192X898205D
+754,45,john boyce turner,2017-01-01,,5CB31419FP988212C
+755,82,Pamela Hagedorn,2017-01-01,,4E143118JX7387213
+756,82,curt raulston,2017-01-01,,2GY92594P6760313M
+757,82,RONALD DUSSEAU,2017-01-01,,3XE33823DM078263X
+758,82,Robert Williams,2017-01-01,,2E61365347514552J
+759,82,Jampatc60,2017-01-01,,2BM38906CG826041G
+760,82,Fox Music USA,2017-01-01,,95K984185K631551E
+761,263,Carolyn J Walker,2017-01-01,,3DS989660H037631E
+762,82,AmillionSwagLLC,2017-01-01,,302705004A424033S
+763,45,john boyce turner,2017-01-01,,11F67311PK877543S
+764,82,ROBERT CURRIE,2017-01-04,,90M95621SY0990724
+765,82,DBA Happy Little Hearts DDC,2017-01-04,,6RX22596FC3639222
+766,82,david john,2017-01-04,,6523948927250260L
+767,82,Clara Cummings,2017-01-04,,9PA90639WW4572152
+768,82,Ralph Hayes,2017-01-04,,3UG41456WX5575631
+769,82,Space Printing,2017-01-04,,9W488680JN887981K
+770,82,richard jones,2017-01-04,,0UW00373H7975104W
+771,82,PAT STERLING,2017-01-04,,9K792733JL210064N
+772,82,PAUL ALLERY,2017-01-04,,96R332503J107592W
+773,82,Bob's Bargains 2009,2017-01-04,,6UG25605BV850334V
+774,82,david beauvais,2017-01-04,,6GW13227P8975523U
+775,82,James Hand,2017-01-04,,9UJ34377RT4273816
+776,82,Wayne Gradwell,2017-01-04,,9UE41276EM1366608
+777,82,Keith Wirth,2017-01-04,,2GK0713973225904K
+778,82,Peter Beadling,2017-01-04,,6NA29230NN0105358
+779,82,joseph crawford,2017-01-04,,1HN55738LH094970E
+780,82,joseph crawford,2017-01-04,,28W83220SF3444110
+781,82,Steve Forehand,2017-01-04,,4DX80954AT128721F
+782,82,Dennis Atkinson,2017-01-04,,5675156766743882T
+783,82,Joseph Kleffner,2017-01-04,,8JT94047PP423372G
+784,82,Orville Monroe,2017-01-04,,5LW921131U842752U
+785,82,Gregory Edwards,2017-01-04,,08V64189MJ820411H
+786,82,Gregory Edwards,2017-01-04,,2U423268VD373780F
+787,82,Norman Donovan,2017-01-04,,5D9150144Y485440L
+788,82,Alfred Bramah,2017-01-04,,4MN560356A735530F
+789,82,Maurice George,2017-01-04,,78R65569BC225835V
+790,82,Robert Gaudino,2017-01-04,,7LE17085GY367900D
+791,82,Stephanie Rogers,2017-01-04,,4C810193R4110380U
+792,82,ron mcallister,2017-01-04,,64P20834AX330714N
+793,82,alan stevens,2017-01-04,,5EB881767U211761C
+794,82,alan stevens,2017-01-04,,8SY14928X48652106
+795,82,alan stevens,2017-01-04,,5RL416235N4986010
+796,82,Aldrick Blackmon,2017-01-04,,54L5512834922924X
+797,82,Jane Barnard,2017-01-04,,36626774K1214342N
+798,82,Rick Hughes,2017-01-04,,4LS65810P4690483T
+799,82,"G. Willie's Uniforms, Inc.",2017-01-04,,3TM283205U783730K
+800,82,Jeffry Brice,2017-01-04,,0K257279ME175714C
+801,82,James A Knowles,2017-01-04,,3EY939208M0137236
+802,82,Robert Szucs,2017-01-04,,26C94233N7752460E
+803,82,Bonnie S Hull,2017-01-04,,3PY62905XB869774B
+804,82,Richard Murphy,2017-01-04,,5RM20370VK581353T
+805,82,Tucker Donald,2017-01-04,,95X21184477578018
+806,82,Randy Soto,2017-01-04,,0H9865746D346923C
+807,83,Stephen Armstrong,2017-01-03,,19W629593K015420L
+808,83,Karel Bouska,2017-01-03,,3EA17384HF1228614
+809,83,Brainwave,2017-01-03,,5MV016802A2104600
+810,83,Karen Bradford,2017-01-03,,7EX823026F8006600
+811,83,Robert Vlasak,2017-01-03,,7WP62282WV200442H
+812,83,Gregory Beranek,2017-01-03,,29Y95554M0643453V
+813,83,Applied Technology and Information Investigations,2017-01-03,,9VN76802AT535214B
+814,83,kevin ratkovich,2017-01-03,,4KK70370L69519149
+815,83,Jim Pearson,2017-01-03,,12E26270PL097462E
+816,83,Thomas Hull,2017-01-03,,67V494641C597571K
+817,92,Bobby Brooks,2017-01-03,,1SP306957W924515P
+818,83,willie jones,2017-01-03,,7BV45341V3672080L
+819,83,The Genecel Co.,2017-01-03,,58970962U4537930G
+820,83,FRED AGNELLO,2017-01-03,,14E43670A7655971J
+821,83,Tim Haney,2017-01-03,,5XU85933WE494081H
+822,92,john findlow,2017-01-03,,5FG7287786365134B
+823,83,working from home,2017-01-03,,7JL46463GJ3043253
+824,92,Ronnie Rosenberg,2017-01-03,,292725212Y765390J
+825,83,Timothy O'shea,2017-01-03,,51P038383K6895535
+826,83,Steve Lair,2017-01-03,,3LM66441TF326102C
+827,92,james talerico,2017-01-03,,7XY21000RA819654F
+828,64,Michael Shafiro,2017-01-03,,93A91353672728611
+829,83,Ed Stines,2017-01-03,,2A398320MH624641S
+830,83,Hunt Fay,2017-01-03,,8358788207820033L
+831,87,Rakedra Askew,2017-01-31,,Order #6NY21632RK3067107
+832,87,Rakedra Askew,2017-01-31,,Order #0U192752YD172714K
+833,87,Alexa Sweeney,2017-01-31,,Order #00802306EH8485615
+834,87,Alexa Sweeney,2017-01-31,,Order #5WE75149U5216061E
+835,169,Nakiea McCloud,2017-01-21,,Order #6KH53792CB1994043
+836,169,Nakiea McCloud,2017-01-20,,Order #1UU11542BC831841D
+837,45,Shante Jones,2017-01-08,,Order #2P309348PP924803L
+838,45,Shante Jones,2017-01-08,,Order #7AP25976MG452213W
+839,90,Angela Strayer,2017-03-02,,Order #83V98572BW728371B
+840,90,Angela Strayer,2017-03-01,,Order #1P306896GN358244G
+841,792,shauna barquist,2017-02-23,,Order #4U325740DJ677820E
+842,792,shauna barquist,2017-02-23,,Order #2XX021777S8094234
+843,293,Jeneen Roybal,2017-02-20,,Order #2ED87969GM866970E
+844,293,Jeneen Roybal,2017-02-20,,Order #0PC310030W6437149
+845,319,Mong Phan,2017-02-17,,Order #1JF42772D5732080Y
+846,320,Mong Phan,2017-02-16,,Order #35R12430T36748155
+847,89,Lauren Chambers,2017-02-15,,Order #93X13186PF7665549
+848,89,Lauren Chambers,2017-02-15,,Order #6D89974142857905L
+849,89,Chastity-Star Sanders,2017-02-12,,Order #41S485077E268605L
+850,89,Chastity-Star Sanders,2017-02-10,,Order #45K875043K608713V
+851,88,Jennifer Ryan,2017-02-08,,Order #6R0084064S474530X
+852,88,Jennifer Ryan,2017-02-08,,Order #2T2974752A5582044
+853,88,Sara Droll,2017-02-08,,Order #4SE03197NR160711B
+854,88,Gloria Sanchez,2017-02-08,,Order #2X5199190U399574D
+855,88,Sara Droll,2017-02-08,,Order #1FR08010R76445501
+856,88,Gloria Sanchez,2017-02-08,,Order #6WD78523580783032
+857,133,Kelisha Randall,2017-02-07,,Order #3XE36078V8442262N
+858,132,Kelisha Randall,2017-02-06,,Order #04H707596M520540L
+859,88,Elizabeth Olmstead ,2017-02-06,,Order #4RS5842616208234Y
+860,88,Joan Dimailig,2017-02-06,,Order #53D96211MT659464B
+861,88,Elizabeth Olmstead ,2017-02-06,,Order #2H777163LN311493B
+862,88,Joan Dimailig,2017-02-06,,Order #0PR721896P165951W
+863,580,Ulrika Calzon,2018-11-16,,Order #ch_1DX0RFDPV5AS2cdqOtOPf3UD
+864,82,Christine Burroughs,2017-01-05,,Order #ch_19YdaCG3nNF6PQizfWXNW2Dp
+865,45,Johan Streling,2017-01-06,,Order #ch_19Ye6YFR492eXXbB6FRjrAHp
+866,45,Johan Streling,2017-01-06,,Order #ch_19Ye6YFR492eXXbB6FRjrAHp
+867,96,Jessica M Hull,2017-05-24,,Order #ch_1AMnxWFR492eXXbBBkl4omtu
+868,86,Amber M Labecki,2017-05-23,,Order #ch_1AMeByFR492eXXbBjMRaIWT9
+869,86,Kevin Burkey ,2017-05-23,,Order #ch_1AMTZ9FR492eXXbBjJf9yo25
+870,86,Brittany Heintz ,2017-05-23,,Order #ch_1AMT0KFR492eXXbBz0Y7c2pC
+871,86,Brittany Heintz ,2017-05-23,,Order #ch_1AMSzXFR492eXXbBz2Zg9aQ3
+872,86,Brittany Heintz ,2017-05-23,,Order #ch_1AMSyKFR492eXXbBD2ubhKmy
+873,87,Megan Sosa,2017-05-22,,Order #ch_1AMHYgFR492eXXbBs29EUUzH
+874,87,Kevin Burkey ,2017-05-22,,Order #ch_1AM68jFR492eXXbBZimGXLmH
+875,87,Ester Espinosa ,2017-05-22,,Order #ch_1AM61wFR492eXXbBY4nf94Gb
+876,131,Marta N Membreno ,2017-05-21,,Order #ch_1ALky7FR492eXXbBwHXO1I0o
+877,87,Kathleen Mittel,2017-05-21,,Order #ch_1ALjcXFR492eXXbBze8QuaAf
+878,45,Shante Jones,2017-01-08,,Order #2P309348PP924803L
+879,45,Shante Jones,2017-01-08,,Order #7AP25976MG452213W
+880,1449,Kund-1263308,2018-09-10,,1263308
+881,-21,Kund-1263308,2018-09-10,,1263308
+882,-5,Kund-1263308,2018-09-10,,1263308
+883,-1,Kund-1263308,2018-09-10,,1263308
+884,0,Kund-1263308,2018-09-10,,1263308
+885,1574,Kund-1263326,2018-09-10,,1263326
+886,-23,Kund-1263326,2018-09-10,,1263326
+887,-6,Kund-1263326,2018-09-10,,1263326
+888,-1,Kund-1263326,2018-09-10,,1263326
+889,0,Kund-1263326,2018-09-10,,1263326
+890,695,Kund-1263336,2018-09-10,,1263336
+891,-10,Kund-1263336,2018-09-10,,1263336
+892,1449,Kund-1263308,2018-09-10,,1263308
+893,1449,Kund-1263308,2018-09-10,,1263308
+894,1449,Kund-1263308,2018-09-10,,1263308
+895,1449,Kund-1263308,2018-09-10,,1263308
+896,-45,Johan Streling,2017-01-06,,Order #ch_19Ye6YFR492eXXbB6FRjrAHp
+897,-45,Johan Streling,2017-01-06,,Order #ch_19Ye6YFR492eXXbB6FRjrAHp
+898,-45,Johan Streling,2017-01-06,,Order #ch_19Ye6YFR492eXXbB6FRjrAHp
+899,1449,Kund-1263308,2018-09-10,,1263308
+900,-45,Johan Streling,2017-01-06,,Order #ch_19Ye6YFR492eXXbB6FRjrAHp
+901,-45,Johan Streling,2017-01-06,,Order #ch_19Ye6YFR492eXXbB6FRjrAHp
+902,-45,Johan Streling,2017-01-06,,Order #ch_19Ye6YFR492eXXbB6FRjrAHp
+903,142,Jonathon Calhoun,2017-11-17,Canada,Order #3MC5739447657151G
+904,80,Leslie Flagg,2017-01-17,United States,Order #ch_19ckqsG3nNF6PQizyCgiztJd
+905,25,Kund-qxeb,2018-11-05,,Order #ch_1DT8jPGN3ys1e3RwEC28qxeb
+906,50,Kund-seTj,2018-10-23,,Order #ch_1DOAHBGN3ys1e3RwVB76seTj
+907,25,Kund-qxeb,2018-11-05,,Order #ch_1DT8jPGN3ys1e3RwEC28qxeb
+908,50,Berit Sundelin,2018-12-05,Sverige,Order #ch_1DdzIrGN3ys1e3RwREIpDt0z
+909,250,Kund-ExsS,2018-12-10,Sverige,Order #ch_1DfkcIGN3ys1e3RwBbcuExsS
+910,300,Kund-nY6c,2018-09-25,,Order #ch_1DEHTlGN3ys1e3Rw0g9lnY6c
+911,50,Kund-bR8l,2018-09-25,,Order #ch_1DE2HZGN3ys1e3RwnfAAbR8l
+912,50,Camilla Larsson,2018-10-22,Sverige,Order #ch_1DO1fOGN3ys1e3RwpwKgvN4L
+913,200,Ewa Mallmén,2018-10-22,Sverige,Order #ch_1DNpiZGN3ys1e3RwaiW2yyFx
+914,500,Kund-Hfq8,2018-10-22,,Order #ch_1DNo18GN3ys1e3RwuOXPHfq8
+915,25,Simon Farekiz,2018-10-21,Sverige,Order #ch_1DNROYGN3ys1e3RwCAQXZ1w4
+916,-25,Simon Farekiz,2018-10-23,Sverige,Order #ch_1DNROYGN3ys1e3RwCAQXZ1w4
+917,350,Kund-MbGb,2018-10-21,,Order #ch_1DNNDOGN3ys1e3RwI3BFMbGb
+918,100,Kund-gO2q,2018-10-20,,Order #ch_1DNLXPGN3ys1e3Rwt8cegO2q
+919,50,Kund-psGt,2018-10-20,Sverige,Order #ch_1DNIPLGN3ys1e3Rwzb1MpsGt
+920,100,Kund-Db5E,2018-10-20,Sverige,Order #ch_1DN4pfGN3ys1e3RwEQ7TDb5E
+921,25,Kund-Nbor,2018-10-20,,Order #ch_1DN3szGN3ys1e3RwxtyHNbor
+922,4990,Kund-13324,2018-11-29,,13324
+923,5437,Kund-13331,2018-11-28,,13331
+924,499,Kund-13457,2018-12-03,,13457
+925,247,Kund-13744,2018-11-26,,13744
+926,4990,Kund-13324,2018-11-29,,13324
+927,5437,Kund-13331,2018-11-28,,13331
+928,247,Kund-13744,2018-11-26,,13744
+929,148,Kund-13746,2018-11-26,,13746
+930,4990,Kund-13324,2018-11-29,,13324
+931,384,Kund-14772,2018-12-03,,14772
+932,503,Kund-14979,2018-12-04,,14979
+933,238,Kund-15013,2018-11-28,,15013
+934,384,Kund-14772,2018-12-03,,14772
+935,503,Kund-14979,2018-12-04,,14979
+936,238,Kund-15013,2018-11-28,,15013
+937,543,Kund-15014,2018-11-28,,15014
+938,464,Kund-15015,2018-11-28,,15015
+939,348,Kund-15016,2018-11-28,,15016
+940,436,Kund-15017,2018-11-28,,15017
+941,427,Kund-15018,2018-11-28,,15018
+942,348,Kund-15019,2018-11-28,,15019
+943,348,Kund-15020,2018-11-28,,15020
+944,238,Kund-15021,2018-11-28,,15021
+945,178,Kund-15022,2018-11-28,,15022
+946,238,Kund-15023,2018-11-28,,15023
+947,403,Kund-15024,2018-11-28,,15024
+948,436,Kund-15025,2018-11-28,,15025
+949,928,Kund-15026,2018-11-28,,15026
+950,238,Kund-15027,2018-11-28,,15027
+951,238,Kund-15028,2018-11-28,,15028
+952,243,Kund-15029,2018-11-29,,15029
+953,238,Kund-15030,2018-11-29,,15030
+954,307,Kund-15031,2018-11-29,,15031
+955,543,Kund-15032,2018-11-29,,15032
+956,348,Kund-15033,2018-11-29,,15033
+957,238,Kund-15034,2018-11-29,,15034
+958,403,Kund-15035,2018-11-29,,15035
+959,348,Kund-15036,2018-11-29,,15036
+960,307,Kund-15037,2018-11-29,,15037
+961,238,Kund-15041,2018-11-29,,15041
+962,178,Kund-15042,2018-11-30,,15042
+963,598,Kund-15048,2018-11-30,,15048
+964,348,Kund-15049,2018-11-30,,15049
+965,516,Kund-15050,2018-11-30,,15050
+966,348,Kund-15051,2018-11-30,,15051
+967,191,Kund-15052,2018-11-30,,15052
+968,307,Kund-15053,2018-11-30,,15053
+969,598,Kund-15054,2018-11-30,,15054
+970,464,Kund-15055,2018-12-03,,15055
+971,408,Kund-15056,2018-12-03,,15056
+972,238,Kund-15057,2018-11-30,,15057
+973,178,Kund-15058,2018-11-30,,15058
+974,293,Kund-15059,2018-12-03,,15059
+975,408,Kund-15060,2018-12-03,,15060
+976,348,Kund-15061,2018-12-03,,15061
+977,238,Kund-15062,2018-12-03,,15062
+978,572,Kund-15063,2018-12-03,,15063
+979,238,Kund-15064,2018-12-03,,15064
+980,348,Kund-15066,2018-12-03,,15066
+981,479,Kund-15067,2018-12-03,,15067
+982,512,Kund-15068,2018-12-03,,15068
+983,449,Kund-15069,2018-12-03,,15069
+984,144,Kund-15070,2018-12-03,,15070
+985,178,Kund-15071,2018-12-03,,15071
+986,422,Kund-15072,2018-12-03,,15072
+987,403,Kund-15073,2018-12-03,,15073
+988,238,Kund-15074,2018-12-03,,15074
+989,488,Kund-15075,2018-12-03,,15075
+990,464,Kund-15076,2018-12-03,,15076
+991,178,Kund-15082,2018-12-03,,15082
+992,408,Kund-15090,2018-12-03,,15090
+993,716,Kund-15092,2018-12-03,,15092
+994,403,Kund-15093,2018-12-03,,15093
+995,238,Kund-15094,2018-12-03,,15094
+996,348,Kund-15095,2018-12-03,,15095
+997,178,Kund-15096,2018-12-03,,15096
+998,598,Kund-15097,2018-12-03,,15097
+999,238,Kund-15098,2018-12-03,,15098
+1000,238,Kund-15099,2018-12-03,,15099
+1001,238,Kund-15102,2018-12-03,,15102
+1002,479,Kund-15103,2018-12-03,,15103
+1003,598,Kund-15104,2018-12-03,,15104
+1004,464,Kund-15105,2018-12-03,,15105
+1005,567,Kund-15117,2018-12-03,,15117
+1006,945,Kund-15118,2018-12-03,,15118
+1007,238,Kund-15119,2018-12-03,,15119
+1008,348,Kund-15120,2018-12-03,,15120
+1009,348,Kund-15121,2018-12-03,,15121
+1010,191,Kund-15122,2018-12-04,,15122
+1011,307,Kund-15123,2018-12-04,,15123
+1012,307,Kund-15124,2018-12-04,,15124
+1013,427,Kund-15127,2018-12-04,,15127
+1014,307,Kund-15160,2018-12-04,,15160
+1015,178,Kund-15163,2018-12-04,,15163
+1016,139,Kund-15164,2018-12-04,,15164
+1017,348,Kund-15166,2018-12-04,,15166
+1018,384,Kund-14772,2018-12-03,,14772
+1019,503,Kund-14979,2018-12-04,,14979
+1020,238,Kund-15013,2018-11-28,,15013
+1021,543,Kund-15014,2018-11-28,,15014
+1022,338,Kund-20001651,2018-11-26,,20001651
+1023,88,Kund-20001659,2018-11-26,,20001659
+1024,297,Kund-20001679,2018-11-26,,20001679
+1025,1423,Kund-20001682,2018-11-26,,20001682
+1026,338,Kund-20001651,2018-11-26,,20001651
+1027,88,Kund-20001659,2018-11-26,,20001659
+1028,297,Kund-20001679,2018-11-26,,20001679
+1029,1423,Kund-20001682,2018-11-26,,20001682
+1030,534,Kund-20001683,2018-11-26,,20001683
+1031,487,Kund-20001684,2018-11-26,,20001684
+1032,302,Kund-20001685,2018-11-26,,20001685
+1033,238,Kund-20001686,2018-11-26,,20001686
+1034,957,Kund-20001687,2018-11-26,,20001687
+1035,168,Kund-20001688,2018-11-26,,20001688
+1036,484,Kund-20001692,2018-11-26,,20001692
+1037,12,Kund-20001693,2018-11-26,,20001693
+1038,32,Kund-20001696,2018-11-26,,20001696
+1039,5,Kund-20001699,2018-11-26,,20001699
+1040,11,Kund-20001700,2018-11-26,,20001700
+1041,10,Kund-20001702,2018-11-26,,20001702
+1042,19,Kund-20001704,2018-11-26,,20001704
+1043,3,Kund-20001705,2018-11-26,,20001705
+1044,26,Kund-20001706,2018-11-26,,20001706
+1045,18,Kund-20001707,2018-11-26,,20001707
+1046,19,Kund-20001708,2018-11-29,,20001708
+1047,4,Kund-20001710,2018-11-26,,20001710
+1048,16,Kund-20001711,2018-11-26,,20001711
+1049,23,Kund-20001713,2018-11-26,,20001713
+1050,26,Kund-20001715,2018-11-29,,20001715
+1051,26,Kund-20001716,2018-11-29,,20001716
+1052,47,Kund-20001719,2018-11-29,,20001719
+1053,36,Kund-20001720,2018-11-26,,20001720
+1054,18,Kund-20001722,2018-11-26,,20001722
+1055,9,Kund-20001723,2018-11-26,,20001723
+1056,6,Kund-20001724,2018-11-26,,20001724
+1057,18,Kund-20001725,2018-11-26,,20001725
+1058,17,Kund-20001726,2018-11-26,,20001726
+1059,22,Kund-20001727,2018-11-26,,20001727
+1060,10,Kund-20001729,2018-11-26,,20001729
+1061,9,Kund-20001730,2018-11-26,,20001730
+1062,26,Kund-20001733,2018-11-26,,20001733
+1063,9,Kund-20001734,2018-11-26,,20001734
+1064,43,Kund-20001735,2018-11-26,,20001735
+1065,26,Kund-20001737,2018-11-26,,20001737
+1066,27,Kund-20001739,2018-11-27,,20001739
+1067,16,Kund-20001743,2018-11-26,,20001743
+1068,12,Kund-20001744,2018-11-26,,20001744
+1069,18,Kund-20001745,2018-11-26,,20001745
+1070,18,Kund-20001746,2018-11-26,,20001746
+1071,9,Kund-20001749,2018-11-29,,20001749
+1072,7,Kund-20001750,2018-11-26,,20001750
+1073,14,Kund-20001751,2018-11-26,,20001751
+1074,14,Kund-20001752,2018-11-26,,20001752
+1075,18,Kund-20001753,2018-11-26,,20001753
+1076,7,Kund-20001756,2018-11-26,,20001756
+1077,18,Kund-20001758,2018-11-26,,20001758
+1078,18,Kund-20001760,2018-11-26,,20001760
+1079,20,Kund-20001761,2018-11-26,,20001761
+1080,7,Kund-20001762,2018-11-26,,20001762
+1081,36,Kund-20001764,2018-11-26,,20001764
+1082,37,Kund-20001765,2018-11-26,,20001765
+1083,7,Kund-20001766,2018-11-26,,20001766
+1084,338,Kund-20001651,2018-11-26,,20001651
+1085,88,Kund-20001659,2018-11-26,,20001659
+1086,297,Kund-20001679,2018-11-26,,20001679
+1087,1423,Kund-20001682,2018-11-26,,20001682
+1088,534,Kund-20001683,2018-11-26,,20001683
+1089,487,Kund-20001684,2018-11-26,,20001684
+1090,302,Kund-20001685,2018-11-26,,20001685
+1091,238,Kund-20001686,2018-11-26,,20001686
+1092,957,Kund-20001687,2018-11-26,,20001687
+1093,168,Kund-20001688,2018-11-26,,20001688
+1094,484,Kund-20001692,2018-11-26,,20001692
+1095,98,Kund-20001692,2018-12-02,,20001692
+1096,12,Kund-20001693,2018-11-26,,20001693
+1097,32,Kund-20001696,2018-11-26,,20001696
+1098,5,Kund-20001699,2018-11-26,,20001699
+1099,11,Kund-20001700,2018-11-26,,20001700
+1100,10,Kund-20001702,2018-11-26,,20001702
+1101,19,Kund-20001704,2018-11-26,,20001704
+1102,3,Kund-20001705,2018-11-26,,20001705
+1103,26,Kund-20001706,2018-11-26,,20001706
+1104,18,Kund-20001707,2018-11-26,,20001707
+1105,19,Kund-20001708,2018-11-29,,20001708
+1106,4,Kund-20001710,2018-11-26,,20001710
+1107,16,Kund-20001711,2018-11-26,,20001711
+1108,23,Kund-20001713,2018-11-26,,20001713
+1109,26,Kund-20001715,2018-11-29,,20001715
+1110,26,Kund-20001716,2018-11-29,,20001716
+1111,47,Kund-20001719,2018-11-29,,20001719
+1112,36,Kund-20001720,2018-11-26,,20001720
+1113,18,Kund-20001722,2018-11-26,,20001722
+1114,9,Kund-20001723,2018-11-26,,20001723
+1115,6,Kund-20001724,2018-11-26,,20001724
+1116,18,Kund-20001725,2018-11-26,,20001725
+1117,17,Kund-20001726,2018-11-26,,20001726
+1118,22,Kund-20001727,2018-11-26,,20001727
+1119,10,Kund-20001729,2018-11-26,,20001729
+1120,9,Kund-20001730,2018-11-26,,20001730
+1121,26,Kund-20001733,2018-11-26,,20001733
+1122,9,Kund-20001734,2018-11-26,,20001734
+1123,43,Kund-20001735,2018-11-26,,20001735
+1124,26,Kund-20001737,2018-11-26,,20001737
+1125,27,Kund-20001739,2018-11-27,,20001739
+1126,16,Kund-20001743,2018-11-26,,20001743
+1127,12,Kund-20001744,2018-11-26,,20001744
+1128,18,Kund-20001745,2018-11-26,,20001745
+1129,18,Kund-20001746,2018-11-26,,20001746
+1130,9,Kund-20001749,2018-11-29,,20001749
+1131,7,Kund-20001750,2018-11-26,,20001750
+1132,14,Kund-20001751,2018-11-26,,20001751
+1133,14,Kund-20001752,2018-11-26,,20001752
+1134,18,Kund-20001753,2018-11-26,,20001753
+1135,7,Kund-20001756,2018-11-26,,20001756
+1136,18,Kund-20001758,2018-11-26,,20001758
+1137,18,Kund-20001760,2018-11-26,,20001760
+1138,20,Kund-20001761,2018-11-26,,20001761
+1139,7,Kund-20001762,2018-11-26,,20001762
+1140,36,Kund-20001764,2018-11-26,,20001764
+1141,37,Kund-20001765,2018-11-26,,20001765
+1142,7,Kund-20001766,2018-11-26,,20001766
+1143,18,Kund-20001768,2018-11-29,,20001768
+1144,5,Kund-20001770,2018-11-26,,20001770
+1145,21,Kund-20001771,2018-11-29,,20001771
+1146,24,Kund-20001773,2018-11-26,,20001773
+1147,7,Kund-20001775,2018-11-26,,20001775
+1148,46,Kund-20001778,2018-11-26,,20001778
+1149,33,Kund-20001779,2018-11-29,,20001779
+1150,9,Kund-20001782,2018-11-26,,20001782
+1151,9,Kund-20001785,2018-11-26,,20001785
+1152,35,Kund-20001786,2018-11-29,,20001786
+1153,7,Kund-20001787,2018-11-26,,20001787
+1154,12,Kund-20001789,2018-11-27,,20001789
+1155,18,Kund-20001790,2018-11-27,,20001790
+1156,18,Kund-20001792,2018-11-27,,20001792
+1157,11,Kund-20001794,2018-11-27,,20001794
+1158,10,Kund-20001797,2018-11-27,,20001797
+1159,34,Kund-20001798,2018-11-26,,20001798
+1160,338,Kund-20001651,2018-11-26,,20001651
+1161,88,Kund-20001659,2018-11-26,,20001659
+1162,297,Kund-20001679,2018-11-26,,20001679
+1163,1423,Kund-20001682,2018-11-26,,20001682
+1164,534,Kund-20001683,2018-11-26,,20001683
+1165,487,Kund-20001684,2018-11-26,,20001684
+1166,302,Kund-20001685,2018-11-26,,20001685
+1167,238,Kund-20001686,2018-11-26,,20001686
+1168,957,Kund-20001687,2018-11-26,,20001687
+1169,168,Kund-20001688,2018-11-26,,20001688
+1170,484,Kund-20001692,2018-11-26,,20001692
+1171,302,Kund-20001685,2018-11-26,,20001685
+1172,8,Kund-20001685,2018-11-26,,20001685
+1173,238,Kund-20001686,2018-11-26,,20001686
+1174,7,Kund-20001686,2018-11-26,,20001686
+1175,957,Kund-20001687,2018-11-26,,20001687
+1176,27,Kund-20001687,2018-11-26,,20001687
+1177,168,Kund-20001688,2018-11-26,,20001688
+1178,5,Kund-20001688,2018-11-26,,20001688
+1179,484,Kund-20001692,2018-11-26,,20001692
+1180,14,Kund-20001692,2018-11-26,,20001692
+1181,4,Kund-20001710,2018-11-26,,20001710
+1182,16,Kund-20001711,2018-11-26,,20001711
+1183,23,Kund-20001713,2018-11-26,,20001713
+1184,26,Kund-20001715,2018-11-29,,20001715
+1185,26,Kund-20001716,2018-11-29,,20001716
+1186,47,Kund-20001719,2018-11-29,,20001719
+1187,36,Kund-20001720,2018-11-26,,20001720
+1188,18,Kund-20001722,2018-11-26,,20001722
+1189,9,Kund-20001723,2018-11-26,,20001723
+1190,6,Kund-20001724,2018-11-26,,20001724
+1191,18,Kund-20001725,2018-11-26,,20001725
+1192,17,Kund-20001726,2018-11-26,,20001726
+1193,22,Kund-20001727,2018-11-26,,20001727
+1194,10,Kund-20001729,2018-11-26,,20001729
+1195,9,Kund-20001730,2018-11-26,,20001730
+1196,26,Kund-20001733,2018-11-26,,20001733
+1197,9,Kund-20001734,2018-11-26,,20001734
+1198,43,Kund-20001735,2018-11-26,,20001735
+1199,26,Kund-20001737,2018-11-26,,20001737
+1200,27,Kund-20001739,2018-11-27,,20001739
+1201,16,Kund-20001743,2018-11-26,,20001743
+1202,12,Kund-20001744,2018-11-26,,20001744
+1203,18,Kund-20001745,2018-11-26,,20001745
+1204,18,Kund-20001746,2018-11-26,,20001746
+1205,9,Kund-20001749,2018-11-29,,20001749
+1206,7,Kund-20001750,2018-11-26,,20001750
+1207,14,Kund-20001751,2018-11-26,,20001751
+1208,14,Kund-20001752,2018-11-26,,20001752
+1209,18,Kund-20001753,2018-11-26,,20001753
+1210,7,Kund-20001756,2018-11-26,,20001756
+1211,18,Kund-20001758,2018-11-26,,20001758
+1212,18,Kund-20001760,2018-11-26,,20001760
+1213,20,Kund-20001761,2018-11-26,,20001761
+1214,7,Kund-20001762,2018-11-26,,20001762
+1215,36,Kund-20001764,2018-11-26,,20001764
+1216,37,Kund-20001765,2018-11-26,,20001765
+1217,7,Kund-20001766,2018-11-26,,20001766
+1218,18,Kund-20001768,2018-11-29,,20001768
+1219,5,Kund-20001770,2018-11-26,,20001770
+1220,21,Kund-20001771,2018-11-29,,20001771
+1221,24,Kund-20001773,2018-11-26,,20001773
+1222,7,Kund-20001775,2018-11-26,,20001775
+1223,46,Kund-20001778,2018-11-26,,20001778
+1224,33,Kund-20001779,2018-11-29,,20001779
+1225,9,Kund-20001782,2018-11-26,,20001782
+1226,9,Kund-20001785,2018-11-26,,20001785
+1227,35,Kund-20001786,2018-11-29,,20001786
+1228,7,Kund-20001787,2018-11-26,,20001787
+1229,12,Kund-20001789,2018-11-27,,20001789
+1230,18,Kund-20001790,2018-11-27,,20001790
+1231,18,Kund-20001792,2018-11-27,,20001792
+1232,11,Kund-20001794,2018-11-27,,20001794
+1233,10,Kund-20001797,2018-11-27,,20001797
+1234,34,Kund-20001798,2018-11-26,,20001798
+1235,7,Kund-20001799,2018-11-27,,20001799
+1236,14,Kund-20001800,2018-11-27,,20001800
+1237,34,Kund-20001803,2018-11-27,,20001803
+1238,11,Kund-20001804,2018-11-28,,20001804
+1239,23,Kund-20001805,2018-11-26,,20001805
+1240,20,Kund-20001808,2018-11-26,,20001808
+1241,34,Kund-20001813,2018-11-26,,20001813
+1242,20,Kund-20001814,2018-11-27,,20001814
+1243,3,Kund-20001815,2018-11-27,,20001815
+1244,36,Kund-20001818,2018-11-29,,20001818
+1245,41,Kund-20001820,2018-11-27,,20001820
+1246,18,Kund-20001821,2018-11-27,,20001821
+1247,23,Kund-20001822,2018-11-27,,20001822
+1248,34,Kund-20001823,2018-11-27,,20001823
+1249,7.999999999999999,Kund-20001825,2018-11-27,,20001825
+1250,26,Kund-20001826,2018-11-29,,20001826
+1251,17,Kund-20001828,2018-11-27,,20001828
+1252,338,Kund-20001651,2018-11-26,,20001651
+1253,88,Kund-20001659,2018-11-26,,20001659
+1254,297,Kund-20001679,2018-11-26,,20001679
+1255,1423,Kund-20001682,2018-11-26,,20001682
+1256,534,Kund-20001683,2018-11-26,,20001683
+1257,487,Kund-20001684,2018-11-26,,20001684
+1258,302,Kund-20001685,2018-11-26,,20001685
+1259,238,Kund-20001686,2018-11-26,,20001686
+1260,957,Kund-20001687,2018-11-26,,20001687
+1261,168,Kund-20001688,2018-11-26,,20001688
+1262,484,Kund-20001692,2018-11-26,,20001692
+1263,435,Kund-20001693,2018-11-26,,20001693
+1264,1078,Kund-20001696,2018-11-26,,20001696
+1265,168,Kund-20001699,2018-11-26,,20001699
+1266,387,Kund-20001700,2018-11-26,,20001700
+1267,334,Kund-20001702,2018-11-26,,20001702
+1268,634,Kund-20001704,2018-11-26,,20001704
+1269,117,Kund-20001705,2018-11-26,,20001705
+1270,929,Kund-20001706,2018-11-26,,20001706
+1271,634,Kund-20001707,2018-11-26,,20001707
+1272,687,Kund-20001708,2018-11-29,,20001708
+1273,158,Kund-20001710,2018-11-26,,20001710
+1274,532,Kund-20001711,2018-11-26,,20001711
+1275,833,Kund-20001713,2018-11-26,,20001713
+1276,937,Kund-20001715,2018-11-29,,20001715
+1277,937,Kund-20001716,2018-11-29,,20001716
+1278,1577,Kund-20001719,2018-11-29,,20001719
+1279,1306,Kund-20001720,2018-11-26,,20001720
+1280,634,Kund-20001722,2018-11-26,,20001722
+1281,328,Kund-20001723,2018-11-26,,20001723
+1282,216,Kund-20001724,2018-11-26,,20001724
+1283,634,Kund-20001725,2018-11-26,,20001725
+1284,617,Kund-20001726,2018-11-26,,20001726
+1285,781,Kund-20001727,2018-11-26,,20001727
+1286,375,Kund-20001729,2018-11-26,,20001729
+1287,337,Kund-20001730,2018-11-26,,20001730
+1288,928,Kund-20001733,2018-11-26,,20001733
+1289,334,Kund-20001734,2018-11-26,,20001734
+1290,1527,Kund-20001735,2018-11-26,,20001735
+1291,934,Kund-20001737,2018-11-26,,20001737
+1292,961,Kund-20001739,2018-11-27,,20001739
+1293,564,Kund-20001743,2018-11-26,,20001743
+1294,437,Kund-20001744,2018-11-26,,20001744
+1295,636,Kund-20001745,2018-11-26,,20001745
+1296,634,Kund-20001746,2018-11-26,,20001746
+1297,306,Kund-20001749,2018-11-29,,20001749
+1298,238,Kund-20001750,2018-11-26,,20001750
+1299,515,Kund-20001751,2018-11-26,,20001751
+1300,515,Kund-20001752,2018-11-26,,20001752
+1301,634,Kund-20001753,2018-11-26,,20001753
+1302,267,Kund-20001756,2018-11-26,,20001756
+1303,636,Kund-20001758,2018-11-26,,20001758
+1304,634,Kund-20001760,2018-11-26,,20001760
+1305,683,Kund-20001761,2018-11-26,,20001761
+1306,238,Kund-20001762,2018-11-26,,20001762
+1307,1281,Kund-20001764,2018-11-26,,20001764
+1308,1339,Kund-20001765,2018-11-26,,20001765
+1309,238,Kund-20001766,2018-11-26,,20001766
+1310,607,Kund-20001768,2018-11-29,,20001768
+1311,187,Kund-20001770,2018-11-26,,20001770
+1312,745,Kund-20001771,2018-11-29,,20001771
+1313,860,Kund-20001773,2018-11-26,,20001773
+1314,238,Kund-20001775,2018-11-26,,20001775
+1315,1634,Kund-20001778,2018-11-26,,20001778
+1316,1189,Kund-20001779,2018-11-29,,20001779
+1317,334,Kund-20001782,2018-11-26,,20001782
+1318,288,Kund-20001785,2018-11-26,,20001785
+1319,1262,Kund-20001786,2018-11-29,,20001786
+1320,238,Kund-20001787,2018-11-26,,20001787
+1321,437,Kund-20001789,2018-11-27,,20001789
+1322,634,Kund-20001790,2018-11-27,,20001790
+1323,634,Kund-20001792,2018-11-27,,20001792
+1324,402,Kund-20001794,2018-11-27,,20001794
+1325,363,Kund-20001797,2018-11-27,,20001797
+1326,1224,Kund-20001798,2018-11-26,,20001798
+1327,238,Kund-20001799,2018-11-27,,20001799
+1328,488,Kund-20001800,2018-11-27,,20001800
+1329,1229,Kund-20001803,2018-11-27,,20001803
+1330,387,Kund-20001804,2018-11-28,,20001804
+1331,832,Kund-20001805,2018-11-26,,20001805
+1332,733,Kund-20001808,2018-11-26,,20001808
+1333,1229,Kund-20001813,2018-11-26,,20001813
+1334,719,Kund-20001814,2018-11-27,,20001814
+1335,117,Kund-20001815,2018-11-27,,20001815
+1336,1231,Kund-20001818,2018-11-29,,20001818
+1337,1480,Kund-20001820,2018-11-27,,20001820
+1338,634,Kund-20001821,2018-11-27,,20001821
+1339,832,Kund-20001822,2018-11-27,,20001822
+1340,1229,Kund-20001823,2018-11-27,,20001823
+1341,291,Kund-20001825,2018-11-27,,20001825
+1342,931,Kund-20001826,2018-11-29,,20001826
+1343,621,Kund-20001828,2018-11-27,,20001828
+1344,1028,Kund-20001829,2018-11-27,,20001829
+1345,218,Kund-20001830,2018-11-27,,20001830
+1346,634,Kund-20001831,2018-11-27,,20001831
+1347,833,Kund-20001832,2018-11-27,,20001832
+1348,218,Kund-20001833,2018-11-29,,20001833
+1349,634,Kund-20001834,2018-11-27,,20001834
+1350,218,Kund-20001835,2018-11-29,,20001835
+1351,248,Kund-20001839,2018-11-27,,20001839
+1352,634,Kund-20001840,2018-11-27,,20001840
+1353,1629,Kund-20001841,2018-11-29,,20001841
+1354,138,Kund-20001842,2018-11-27,,20001842
+1355,1428,Kund-20001843,2018-11-27,,20001843
+1356,872,Kund-20001844,2018-11-27,,20001844
+1357,634,Kund-20001845,2018-11-27,,20001845
+1358,683,Kund-20001846,2018-11-27,,20001846
+1359,813,Kund-20001847,2018-11-27,,20001847
+1360,777,Kund-20001848,2018-11-27,,20001848
+1361,629,Kund-20001849,2018-11-27,,20001849
+1362,1329,Kund-20001850,2018-11-27,,20001850
+1363,634,Kund-20001852,2018-11-27,,20001852
+1364,730,Kund-20001853,2018-11-27,,20001853
+1365,2007,Kund-20001854,2018-11-28,,20001854
+1366,117,Kund-20001855,2018-11-27,,20001855
+1367,387,Kund-20001856,2018-11-27,,20001856
+1368,334,Kund-20001859,2018-11-27,,20001859
+1369,334,Kund-20001861,2018-11-27,,20001861
+1370,629,Kund-20001863,2018-11-27,,20001863
+1371,288,Kund-20001864,2018-11-28,,20001864
+1372,634,Kund-20001865,2018-11-27,,20001865
+1373,187,Kund-20001866,2018-11-27,,20001866
+1374,634,Kund-20001867,2018-11-27,,20001867
+1375,833,Kund-20001869,2018-11-27,,20001869
+1376,772,Kund-20001874,2018-11-27,,20001874
+1377,1114,Kund-20001879,2018-11-29,,20001879
+1378,1114,Kund-20001880,2018-11-27,,20001880
+1379,337,Kund-20001881,2018-11-27,,20001881
+1380,634,Kund-20001882,2018-11-27,,20001882
+1381,396,Kund-20001883,2018-11-29,,20001883
+1382,634,Kund-20001884,2018-11-27,,20001884
+1383,334,Kund-20001885,2018-11-27,,20001885
+1384,634,Kund-20001886,2018-11-27,,20001886
+1385,238,Kund-20001888,2018-11-27,,20001888
+1386,227,Kund-20001893,2018-11-27,,20001893
+1387,673,Kund-20001894,2018-11-27,,20001894
+1388,336,Kund-20001895,2018-11-29,,20001895
+1389,488,Kund-20001897,2018-11-29,,20001897
+1390,1339,Kund-20001900,2018-11-27,,20001900
+1391,453,Kund-20001901,2018-11-29,,20001901
+1392,334,Kund-20001903,2018-11-27,,20001903
+1393,334,Kund-20001910,2018-11-27,,20001910
+1394,911,Kund-20001911,2018-11-29,,20001911
+1395,629,Kund-20001913,2018-11-27,,20001913
+1396,634,Kund-20001914,2018-11-27,,20001914
+1397,617,Kund-20001916,2018-11-29,,20001916
+1398,553,Kund-20001917,2018-11-29,,20001917
+1399,1340,Kund-20001919,2018-11-29,,20001919
+1400,334,Kund-20001920,2018-11-27,,20001920
+1401,634,Kund-20001921,2018-11-27,,20001921
+1402,971,Kund-20001923,2018-11-29,,20001923
+1403,634,Kund-20001924,2018-11-27,,20001924
+1404,414,Kund-20001925,2018-11-27,,20001925
+1405,238,Kund-20001932,2018-11-27,,20001932
+1406,168,Kund-20001934,2018-11-27,,20001934
+1407,399,Kund-20001939,2018-11-29,,20001939
+1408,638,Kund-20001940,2018-11-29,,20001940
+1409,1089,Kund-20001944,2018-11-29,,20001944
+1410,521,Kund-20001945,2018-11-29,,20001945
+1411,1019,Kund-20001948,2018-11-29,,20001948
+1412,890,Kund-20001949,2018-11-29,,20001949
+1413,384,Kund-14772,2018-12-03,,14772
+1414,503,Kund-14979,2018-12-04,,14979
+1415,238,Kund-15013,2018-11-28,,15013
+1416,543,Kund-15014,2018-11-28,,15014
+1417,464,Kund-15015,2018-11-28,,15015
+1418,348,Kund-15016,2018-11-28,,15016
+1419,436,Kund-15017,2018-11-28,,15017
+1420,427,Kund-15018,2018-11-28,,15018
+1421,348,Kund-15019,2018-11-28,,15019
+1422,348,Kund-15020,2018-11-28,,15020
+1423,238,Kund-15021,2018-11-28,,15021
+1424,178,Kund-15022,2018-11-28,,15022
+1425,238,Kund-15023,2018-11-28,,15023
+1426,403,Kund-15024,2018-11-28,,15024
+1427,436,Kund-15025,2018-11-28,,15025
+1428,928,Kund-15026,2018-11-28,,15026
+1429,238,Kund-15027,2018-11-28,,15027
+1430,238,Kund-15028,2018-11-28,,15028
+1431,243,Kund-15029,2018-11-29,,15029
+1432,238,Kund-15030,2018-11-29,,15030
+1433,307,Kund-15031,2018-11-29,,15031
+1434,543,Kund-15032,2018-11-29,,15032
+1435,348,Kund-15033,2018-11-29,,15033
+1436,238,Kund-15034,2018-11-29,,15034
+1437,403,Kund-15035,2018-11-29,,15035
+1438,348,Kund-15036,2018-11-29,,15036
+1439,307,Kund-15037,2018-11-29,,15037
+1440,238,Kund-15041,2018-11-29,,15041
+1441,178,Kund-15042,2018-11-30,,15042
+1442,598,Kund-15048,2018-11-30,,15048
+1443,348,Kund-15049,2018-11-30,,15049
+1444,516,Kund-15050,2018-11-30,,15050
+1445,348,Kund-15051,2018-11-30,,15051
+1446,191,Kund-15052,2018-11-30,,15052
+1447,307,Kund-15053,2018-11-30,,15053
+1448,598,Kund-15054,2018-11-30,,15054
+1449,464,Kund-15055,2018-12-03,,15055
+1450,408,Kund-15056,2018-12-03,,15056
+1451,238,Kund-15057,2018-11-30,,15057
+1452,178,Kund-15058,2018-11-30,,15058
+1453,293,Kund-15059,2018-12-03,,15059
+1454,408,Kund-15060,2018-12-03,,15060
+1455,348,Kund-15061,2018-12-03,,15061
+1456,238,Kund-15062,2018-12-03,,15062
+1457,572,Kund-15063,2018-12-03,,15063
+1458,238,Kund-15064,2018-12-03,,15064
+1459,348,Kund-15066,2018-12-03,,15066
+1460,479,Kund-15067,2018-12-03,,15067
+1461,512,Kund-15068,2018-12-03,,15068
+1462,449,Kund-15069,2018-12-03,,15069
+1463,144,Kund-15070,2018-12-03,,15070
+1464,178,Kund-15071,2018-12-03,,15071
+1465,422,Kund-15072,2018-12-03,,15072
+1466,403,Kund-15073,2018-12-03,,15073
+1467,238,Kund-15074,2018-12-03,,15074
+1468,488,Kund-15075,2018-12-03,,15075
+1469,464,Kund-15076,2018-12-03,,15076
+1470,178,Kund-15082,2018-12-03,,15082
+1471,408,Kund-15090,2018-12-03,,15090
+1472,716,Kund-15092,2018-12-03,,15092
+1473,403,Kund-15093,2018-12-03,,15093
+1474,238,Kund-15094,2018-12-03,,15094
+1475,348,Kund-15095,2018-12-03,,15095
+1476,178,Kund-15096,2018-12-03,,15096
+1477,598,Kund-15097,2018-12-03,,15097
+1478,238,Kund-15098,2018-12-03,,15098
+1479,238,Kund-15099,2018-12-03,,15099
+1480,238,Kund-15102,2018-12-03,,15102
+1481,479,Kund-15103,2018-12-03,,15103
+1482,598,Kund-15104,2018-12-03,,15104
+1483,464,Kund-15105,2018-12-03,,15105
+1484,567,Kund-15117,2018-12-03,,15117
+1485,945,Kund-15118,2018-12-03,,15118
+1486,1792,Kund-20001524,2018-11-06,,20001524
+1487,662,Kund-20001546,2018-11-06,,20001546
+1488,947,Kund-20001555,2018-11-07,,20001555
+1489,913,Kund-20001570,2018-11-12,,20001570
+1490,1861,Kund-20001587,2018-11-12,,20001587
+1491,298,Kund-13733,2018-11-23,,13733
+1492,5288,Kund-13734,2018-11-23,,13734
+1493,148,Kund-13735,2018-11-23,,13735
+1494,3441,Kund-13736,2018-11-23,,13736
+1495,298,Kund-13750,2018-11-23,,13750
+1496,4990,Kund-13751,2018-11-23,,13751
+1497,3990,Kund-13753,2018-11-23,,13753
+1498,344,Kund-13755,2018-11-23,,13755
+1499,5189,Kund-13756,2018-11-23,,13756
+1500,548,Kund-13757,2018-11-23,,13757
+1501,249,Kund-13758,2018-11-23,,13758
+1502,4990,Kund-13763,2018-11-23,,13763
+1503,3990,Kund-13764,2018-11-23,,13764
+1504,272,Kund-13765,2018-11-25,,13765
+1505,3591,Kund-13766,2018-11-23,,13766
+1506,167,Kund-13767,2018-11-23,,13767
+1507,447,Kund-13768,2018-11-23,,13768
+1508,167,Kund-13769,2018-11-23,,13769
+1509,108,Kund-13770,2018-11-23,,13770
+1510,108,Kund-13771,2018-11-23,,13771
+1511,108,Kund-13772,2018-11-23,,13772
+1512,108,Kund-13773,2018-11-23,,13773
+1513,108,Kund-13775,2018-11-23,,13775
+1514,108,Kund-13778,2018-11-23,,13778
+1515,108,Kund-13777,2018-11-23,,13777
+1516,167,Kund-13779,2018-11-23,,13779
+1517,108,Kund-13781,2018-11-22,,13781
+1518,108,Kund-13782,2018-11-22,,13782
+1519,108,Kund-13784,2018-11-22,,13784
+1520,108,Kund-13785,2018-11-22,,13785
+1521,108,Kund-13786,2018-11-22,,13786
+1522,108,Kund-13787,2018-11-22,,13787
+1523,108,Kund-13788,2018-11-22,,13788
+1524,108,Kund-13789,2018-11-22,,13789
+1525,108,Kund-13792,2018-11-22,,13792
+1526,108,Kund-13793,2018-11-22,,13793
+1527,108,Kund-13795,2018-11-22,,13795
+1528,167,Kund-13796,2018-11-22,,13796
+1529,108,Kund-13797,2018-11-22,,13797
+1530,108,Kund-13798,2018-11-22,,13798
+1531,155,Kund-13799,2018-11-22,,13799
+1532,102,Kund-13800,2018-11-22,,13800
+1533,108,Kund-13801,2018-11-22,,13801
+1534,167,Kund-13802,2018-11-22,,13802
+1535,155,Kund-13803,2018-11-22,,13803
+1536,167,Kund-13804,2018-11-22,,13804
+1537,108,Kund-13805,2018-11-22,,13805
+1538,108,Kund-13807,2018-11-22,,13807
+1539,108,Kund-13809,2018-11-22,,13809
+1540,59,Kund-13810,2018-11-22,,13810
+1541,108,Kund-13811,2018-11-22,,13811
+1542,108,Kund-13812,2018-11-22,,13812
+1543,108,Kund-13814,2018-11-22,,13814
+1544,108,Kund-13815,2018-11-22,,13815
+1545,108,Kund-13816,2018-11-22,,13816
+1546,118,Kund-13817,2018-11-22,,13817
+1547,108,Kund-13818,2018-11-22,,13818
+1548,148,Kund-13823,2018-11-23,,13823
+1549,548,Kund-13826,2018-11-23,,13826
+1550,148,Kund-13828,2018-11-25,,13828
+1551,59,Kund-13830,2018-11-23,,13830
+1552,247,Kund-13831,2018-11-25,,13831
+1553,247,Kund-13834,2018-11-25,,13834
+1554,102,Kund-13835,2018-11-23,,13835
+1555,470,Kund-13836,2018-11-25,,13836
+1556,59,Kund-13837,2018-11-23,,13837
+1557,2691,Kund-13838,2018-11-23,,13838
+1558,59,Kund-13840,2018-11-23,,13840
+1559,59,Kund-13841,2018-11-23,,13841
+1560,102,Kund-13842,2018-11-23,,13842
+1561,108,Kund-13843,2018-11-23,,13843
+1562,167,Kund-13844,2018-11-22,,13844
+1563,59,Kund-13845,2018-11-23,,13845
+1564,108,Kund-13846,2018-11-23,,13846
+1565,108,Kund-13847,2018-11-23,,13847
+1566,108,Kund-13848,2018-11-23,,13848
+1567,108,Kund-13849,2018-11-23,,13849
+1568,108,Kund-13850,2018-11-23,,13850
+1569,108,Kund-13851,2018-11-23,,13851
+1570,108,Kund-13852,2018-11-23,,13852
+1571,167,Kund-13854,2018-11-23,,13854
+1572,208,Kund-13855,2018-11-23,,13855
+1573,167,Kund-13856,2018-11-23,,13856
+1574,108,Kund-13857,2018-11-23,,13857
+1575,298,Kund-13858,2018-11-23,,13858
+1576,118,Kund-13859,2018-11-23,,13859
+1577,108,Kund-13860,2018-11-23,,13860
+1578,108,Kund-13861,2018-11-23,,13861
+1579,272,Kund-13862,2018-11-25,,13862
+1580,108,Kund-13864,2018-11-23,,13864
+1581,524,Kund-12598,2018-10-24,,12598
+1582,431,Kund-12625,2018-10-24,,12625
+1583,929,Kund-12769,2018-10-24,,12769
+1584,427,Kund-12770,2018-10-24,,12770
+1585,318,Kund-12771,2018-10-24,,12771
+1586,348,Kund-12772,2018-10-24,,12772
+1587,413,Kund-12773,2018-10-24,,12773
+1588,223,Kund-12774,2018-10-24,,12774
+1589,188,Kund-12775,2018-10-24,,12775
+1590,140,Kund-12776,2018-10-24,,12776
+1591,163,Kund-12777,2018-10-24,,12777
+1592,223,Kund-12783,2018-10-24,,12783
+1593,178,Kund-12784,2018-10-24,,12784
+1594,348,Kund-12785,2018-10-24,,12785
+1595,223,Kund-12786,2018-10-24,,12786
+1596,464,Kund-12787,2018-10-24,,12787
+1597,333,Kund-12788,2018-10-24,,12788
+1598,140,Kund-12789,2018-10-24,,12789
+1599,178,Kund-12790,2018-10-24,,12790
+1600,223,Kund-12791,2018-10-24,,12791
+1601,318,Kund-12792,2018-10-24,,12792
+1602,238,Kund-12793,2018-10-24,,12793
+1603,223,Kund-12794,2018-10-24,,12794
+1604,348,Kund-12795,2018-10-24,,12795
+1605,223,Kund-12796,2018-10-24,,12796
+1606,206,Kund-12797,2018-10-24,,12797
+1607,188,Kund-12798,2018-10-24,,12798
+1608,516,Kund-12799,2018-10-24,,12799
+1609,140,Kund-12800,2018-10-24,,12800
+1610,412,Kund-12802,2018-10-24,,12802
+1611,188,Kund-12803,2018-10-24,,12803
+1612,223,Kund-12804,2018-10-24,,12804
+1613,152,Kund-12805,2018-10-24,,12805
+1614,273,Kund-12806,2018-10-24,,12806
+1615,583,Kund-12807,2018-10-24,,12807
+1616,645,Kund-12808,2018-10-24,,12808
+1617,163,Kund-12809,2018-10-24,,12809
+1618,598,Kund-12810,2018-10-24,,12810
+1619,277,Kund-12811,2018-10-24,,12811
+1620,598,Kund-12812,2018-10-24,,12812
+1621,188,Kund-12813,2018-10-24,,12813
+1622,1236,Kund-12814,2018-10-29,,12814
+1623,333,Kund-12815,2018-10-24,,12815
+1624,223,Kund-12816,2018-10-24,,12816
+1625,238,Kund-12817,2018-10-24,,12817
+1626,223,Kund-12818,2018-10-24,,12818
+1627,921,Kund-12819,2018-10-24,,12819
+1628,581,Kund-12820,2018-10-24,,12820
+1629,598,Kund-12821,2018-10-24,,12821
+1630,4288,Kund- 257379,2018-11-14,,#1317
+1631,86,Kund- 257379,2018-11-14,,#1317
+1632,4,Kund- 257379,2018-11-12,,#1319
+1633,1499,Kund- 257379,2018-11-12,,#1321
+1634,30,Kund- 257379,2018-11-12,,#1321
+1635,4,Kund- 257379,2018-11-12,,#1322
+1636,480,Kund- 257379,2018-11-12,,#1323
+1637,10,Kund- 257379,2018-11-12,,#1323
+1638,4,Kund- 257379,2018-11-12,,#1324
+1639,4098,Kund- 257379,2018-11-12,,#1325
+1640,82,Kund- 257379,2018-11-12,,#1325
+1641,4,Kund- 257379,2018-11-13,,#1327
+1642,840,Kund- 257379,2018-11-13,,#1328
+1643,17,Kund- 257379,2018-11-13,,#1328
+1644,4,Kund- 257379,2018-11-13,,#1329
+1645,4288,Kund- 257379,2018-11-14,,#1317
+1646,780,Kund- 257379,2018-11-12,,#1319
+1647,1499,Kund- 257379,2018-11-12,,#1321
+1648,1249,Kund- 257379,2018-11-12,,#1322
+1649,480,Kund- 257379,2018-11-12,,#1323
+1650,1548,Kund- 257379,2018-11-12,,#1324
+1651,4098,Kund- 257379,2018-11-12,,#1325
+1652,1899,Kund- 257379,2018-11-13,,#1327
+1653,840,Kund- 257379,2018-11-13,,#1328
+1654,799,Kund- 257379,2018-11-13,,#1329
+1655,390,Kund- 257379,2018-11-14,,#1336
+1656,810,Kund- 257379,2018-11-14,,#1337
+1657,2399,Kund- 257379,2018-11-14,,#1338
+1658,925,Kund- 257379,2018-11-16,,#1340
+1659,-421,Kund-2653,2018-12-10,,2653
+1660,-421,Kund-2653,2018-12-10,,2653
+1661,710,Kund-2110,2018-10-04,,2110
+1662,710,Kund-2110,2018-10-04,,2110
+1663,199,Azadeh Brownlee,2018-08-04,,Automatisera Mera - Order 1299
+1664,198,Bernt Olsson,2018-12-07,,Automatisera Mera - Order 2145
+1665,81,Jennifer Birabent,2017-08-01,United States,Order #ch_1AliLTFR492eXXbB3XXjxdHD
+1666,134,Jennifer Mosher ,2017-09-19,United States,Order #ch_1B3n6iFR492eXXbB07jQSZK3
+1667,453,Louisa Guadagno,2017-09-19,United States,Order #ch_1B3mtqFR492eXXbBEcJKxRZ5
+1668,624,Lena Marjoniemi,2018-10-01,Sverige,Order #ch_1DGSlSL1XhEX0hZtm9ikwryi
+1669,624,Camilla Rastas,2018-10-01,Sverige,Order #ch_1DGDTIL1XhEX0hZtAxnbHr6X
+1670,624,Åsa Larsson,2018-10-01,Sverige,Order #ch_1DG9zjL1XhEX0hZtsFSaYIZI
+1671,0,Kund-8x3Q,2018-11-14,,Försäljning av varor
+1672,708,Björn Duren,2018-11-26,,Försäljning av varor
+1673,0,Kund-g23T,2018-12-16,,Försäljning av varor
+1674,0,Kund-xrC0,2018-12-28,,Försäljning av varor
+1675,198,Bernt Olsson,2019-01-07,,Automatisera Mera - Order 2311
+1676,0,Kund-Dog6,2018-11-26,,Försäljning av varor
+1677,155,Timothy Logan,2018-11-01,,Försäljning av varor
+1678,93,Phillipe Stankovski,2018-11-01,,Försäljning av varor
+1679,186,Porciuncula Mentone,2018-11-01,,Försäljning av varor
+1680,0,Kund-eBwg,2018-11-01,,Försäljning av varor
+1681,706,Sofia Grahn,2018-11-14,,Försäljning av varor
+1682,706,Kristofer Vahlström,2018-11-14,,Försäljning av varor
+1683,0,Kund-Kzpr,2018-11-14,,Försäljning av varor
+1684,154,Cristiane Dean,2018-11-26,,Försäljning av varor
+1685,0,Karen Chong,2018-11-26,,Försäljning av varor
+1686,0,Kund-7Dva,2018-12-16,,Försäljning av varor
+1687,-82548,Ar Han,2019-01-09,,Order #ch_1C1Es1G3nNF6PQiz2pNiJJ5m
+1688,-1709,John Vanderheiden,2019-01-09,,Order #ch_1By7vlG3nNF6PQizEXnZ1bv6
+1689,-1709,John Vanderheiden,2019-01-09,,Order #ch_1By7rxG3nNF6PQizwUYFv6UF
+1690,-945,Judith A Ginsburg,2019-01-09,,Order #ch_1Boit3G3nNF6PQizUfkkEli8
+1691,-225,Diard Olluri,2019-01-09,,Order #ch_1BmXq1G3nNF6PQizlt8FsB99
+1692,-225,Diard Olluri,2019-01-09,,Order #ch_1BmXd3G3nNF6PQizMbfia4br
+1693,-225,Diard Olluri,2019-01-09,,Order #ch_1BmXTDG3nNF6PQizosChdZrN
+1694,-225,Diard Olluri,2019-01-09,,Order #ch_1BmXDkG3nNF6PQizKoHyexWY
+1695,-225,Diard Olluri,2019-01-09,,Order #ch_1BmX32G3nNF6PQizx0REV183
+1696,-82645,Teresa Guindo,2019-01-09,,Order #ch_1BjOWbG3nNF6PQizMhZ5CSMm
+1697,-250,Anne Lagerström,2019-01-09,,
+1698,82548,Ar Han,2018-03-02,,Order #ch_1C1Es1G3nNF6PQiz2pNiJJ5m
+1699,-82548,Ar Han,2019-01-09,,Order #ch_1C1Es1G3nNF6PQiz2pNiJJ5m
+1700,486,Anita Eland,2018-02-10,,Order #ch_1BthT1G3nNF6PQizR1tDGlHw
+1701,-486,Anita Eland,2019-01-09,,Order #ch_1BthT1G3nNF6PQizR1tDGlHw
+1702,353,Ibrahim Elkhalil Ladjal,2018-02-03,,Order #ch_1BrD55G3nNF6PQizgzAE0fI7
+1703,-353,Ibrahim Elkhalil Ladjal,2019-01-09,,Order #ch_1BrD55G3nNF6PQizgzAE0fI7
+1704,486,Anita Eland,2018-02-10,,Order #ch_1BthT1G3nNF6PQizR1tDGlHw
+1705,353,Ibrahim Elkhalil Ladjal,2018-02-03,,Order #ch_1BrD55G3nNF6PQizgzAE0fI7
+1706,-486,Anita Eland,2019-01-09,,Order #ch_1BthT1G3nNF6PQizR1tDGlHw
+1707,-353,Ibrahim Elkhalil Ladjal,2019-01-09,,Order #ch_1BrD55G3nNF6PQizgzAE0fI7
+1708,84729,Asril Mochammad,2017-12-24,United States,Order #ch_1BcS1FG3nNF6PQizn4nzhOu3
+1709,83,Arnoldo Alexis Moya Gonzalez,2017-12-03,Mexico,Order #ch_1BUrJWG3nNF6PQiz5Zi7jpCP
+1710,118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaelG3nNF6PQizBT2ToYJQ
+1711,-83,Arnoldo Alexis Moya Gonzalez,2017-12-03,Mexico,Order #ch_1BUrJWG3nNF6PQiz5Zi7jpCP
+1712,-83,Arnoldo Alexis Moya Gonzalez,2017-12-03,Mexico,Order #ch_1BUrJWG3nNF6PQiz5Zi7jpCP
+1713,-118,Arnoldo Alexis Moya Gonzalez,2017-11-19,Mexico,Order #ch_1BPaelG3nNF6PQizBT2ToYJQ
+1714,-83,Arnoldo Alexis Moya Gonzalez,2017-12-03,Mexico,Order #ch_1BUrJWG3nNF6PQiz5Zi7jpCP
+1715,-83,Arnoldo Alexis Moya Gonzalez,2017-12-03,Mexico,Order #ch_1BUrJWG3nNF6PQiz5Zi7jpCP
+1716,-83,Arnoldo Alexis Moya Gonzalez,2017-12-03,Mexico,Order #ch_1BUrJWG3nNF6PQiz5Zi7jpCP
+1717,-83,Arnoldo Alexis Moya Gonzalez,2017-12-03,Mexico,Order #ch_1BUrJWG3nNF6PQiz5Zi7jpCP
+1718,-84729,Arnoldo Alexis Moya Gonzalez,2017-12-24,Mexico,Order #ch_1BcS1FG3nNF6PQizn4nzhOu3
+1719,-84729,Asril Mochammad,2017-12-24,United States,Order #ch_1BcS1FG3nNF6PQizn4nzhOu3
+1720,-118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaelG3nNF6PQizBT2ToYJQ
+1721,-84729,Asril Mochammad,2017-12-24,United States,Order #ch_1BcS1FG3nNF6PQizn4nzhOu3
+1722,-83,Arnoldo Alexis Moya Gonzalez,2017-12-03,Mexico,Order #ch_1BUrJWG3nNF6PQiz5Zi7jpCP
+1723,-118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaelG3nNF6PQizBT2ToYJQ
+1724,118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPac7G3nNF6PQizi6SSI8sE
+1725,118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPabEG3nNF6PQizt7gddJXH
+1726,118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaaCG3nNF6PQiz5dEDApzq
+1727,118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaZQG3nNF6PQizj4GsXDFT
+1728,118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaYkG3nNF6PQizrX5la1qO
+1729,126,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaP0G3nNF6PQiziomEfIcX
+1730,126,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaKYG3nNF6PQiztRGdW7Q0
+1731,126,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaJpG3nNF6PQiz4TZKYJ1k
+1732,126,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaGAG3nNF6PQizlvVJIuaG
+1733,1031,Qsdfqdsf Qsdfdf,2017-10-27,Israel,Order #ch_1BHYFLG3nNF6PQizmS21pTW6
+1734,1031,Qsdfdf Qsdfqsdf,2017-10-27,Israel,Order #ch_1BHYDSG3nNF6PQizuBLajfnm
+1735,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEILbG3nNF6PQiz4EAXRPYv
+1736,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEIKhG3nNF6PQizJIh9R1eg
+1737,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEIKOG3nNF6PQiz3eHvKijK
+1738,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEIJkG3nNF6PQizlHfIpWkO
+1739,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEIHgG3nNF6PQizASNPNPTP
+1740,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEIHMG3nNF6PQizOD1JC2GW
+1741,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHsUG3nNF6PQizNcdlCvIS
+1742,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHrnG3nNF6PQiz4LheMeM2
+1743,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHqgG3nNF6PQiz9hMYBx0x
+1744,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHpfG3nNF6PQizM42TLnbP
+1745,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHpNG3nNF6PQizejS0V9uZ
+1746,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHldG3nNF6PQizeb7Za68F
+1747,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHl1G3nNF6PQizTHVmQCOO
+1748,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHhcG3nNF6PQizRzCCWcxa
+1749,114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHeNG3nNF6PQizgrTPM2lE
+1750,137,Kathryn Ratledge,2017-10-12,United States,Order #ch_1BBz05G3nNF6PQizEAysEOM8
+1751,244,Nguyen To,2017-10-06,India,Order #ch_1B9lq4G3nNF6PQiz5nuil5Zd
+1752,244,Nguyen To,2017-10-06,India,Order #ch_1B9lmoG3nNF6PQizlWbegMAz
+1753,244,Nguyen To,2017-10-06,India,Order #ch_1B9lihG3nNF6PQizF5gaNyCi
+1754,244,Nguyen To,2017-10-06,India,Order #ch_1B9li2G3nNF6PQiz4MptRL5C
+1755,244,Nguyen To,2017-10-06,India,Order #ch_1B9lhHG3nNF6PQizEOJ2X8dC
+1756,244,Nguyen To,2017-10-06,India,Order #ch_1B9lYIG3nNF6PQiz8sVDlai7
+1757,244,Nguyen To,2017-10-06,India,Order #ch_1B9lXqG3nNF6PQizGxxXsH8T
+1758,244,Nguyen To,2017-10-06,India,Order #ch_1B9lK8G3nNF6PQiznMwhZwFk
+1759,244,Nguyen To,2017-10-06,India,Order #ch_1B9jxZG3nNF6PQizHKIxAIY5
+1760,122,Arturo Apolinario L,2017-10-01,Ecuador,Order #ch_1B7nZrG3nNF6PQizdzsWOgk7
+1761,122,Arturo Apolinario L,2017-10-01,Ecuador,Order #ch_1B7nYFG3nNF6PQizCBqM2P4y
+1762,79,Manuel Leiva Alarcon,2017-09-22,Chile,Order #ch_1B4g62G3nNF6PQizojBcmIoY
+1763,79,Manuel Omar Leiva Alarcon,2017-09-22,Chile,Order #ch_1B4g3cG3nNF6PQizs9j4mTjG
+1764,79,Manuel Leiva Alarcon,2017-09-22,Chile,Order #ch_1B4g0UG3nNF6PQiz4qDBcumo
+1765,79,Figueroa Pedraza Javier Hernan,2017-09-22,Colombia,Order #ch_1B4d7mG3nNF6PQizuTZNPORH
+1766,79,Luis Fernando De La Ossa Ruiz,2017-09-22,Colombia,Order #ch_1B4cUWG3nNF6PQizpspMpcV2
+1767,80,Luis Andres Rivera Crisostomo,2017-09-21,Mexico,Order #ch_1B4Ug0G3nNF6PQizc11JigA5
+1768,80,Gloria Speelman,2017-09-21,United States,Order #ch_1B4RKoG3nNF6PQizhkPjR9bp
+1769,79,Fernando Aldemar  Patiño ,2017-09-15,Uruguay,Order #ch_1B23ING3nNF6PQizUgMuzKtu
+1770,79,Guillermo Coronado,2017-09-15,Mexico,Order #ch_1B22zMG3nNF6PQizSBdQofbe
+1771,112,Aida Llucia Valldeperas ,2017-09-12,United States,Order #ch_1B0uv0G3nNF6PQizTtkm2RoG
+1772,112,Aida Llucia Valldeperas ,2017-09-12,United States,Order #ch_1B0uu0G3nNF6PQiz84Gr1049
+1773,112,Aida Llucia Valldeperas ,2017-09-12,United States,Order #ch_1B0utBG3nNF6PQizqJ6va19c
+1774,80,Felipe Basich Escoto,2017-09-12,Mexico,Order #ch_1B0uUrG3nNF6PQizPuLtuXmz
+1775,79,Carlos Pina,2017-09-10,Mexico,Order #ch_1B0K5xG3nNF6PQizfbgnyI9C
+1776,79,Marcos F Marin Guerra,2017-09-10,Mexico,Order #ch_1B0JOqG3nNF6PQizLl6Eh0MD
+1777,79,Marcos F Marin Guerra,2017-09-10,Mexico,Order #ch_1B0JNTG3nNF6PQizRFoKtA8A
+1778,79,Guy Joseph Munnia,2017-09-10,Spain,Order #ch_1B0GWeG3nNF6PQizBcuOEky1
+1779,79,Nelson Scocoza ,2017-09-10,Uruguay,Order #ch_1B0EvJG3nNF6PQizYR5HxjKb
+1780,118,Harry Lum Hon Lup,2017-09-09,Singapore,Order #ch_1B06UZG3nNF6PQiz7ap5bSFH
+1781,79,Mario Cortes De La Cruz,2017-09-08,Mexico,Order #ch_1AzVKeG3nNF6PQizn8ch7d6z
+1782,143,Djodi Dwi Saputro,2017-09-07,United States,Order #ch_1AzK2cG3nNF6PQizSvzEQRJR
+1783,143,Djodi Dwi Saputri,2017-09-07,Indonesia,Order #ch_1AzJugG3nNF6PQizhpKgEkYu
+1784,79,Zulima S Granados R,2017-09-07,Colombia,Order #ch_1Az6d2G3nNF6PQiz0R4DFIbK
+1785,79,Zulima S Granados R,2017-09-07,Colombia,Order #ch_1Az6axG3nNF6PQizBuFn1WWq
+1786,79,Zulima S Granados R,2017-09-07,Colombia,Order #ch_1Az6Z5G3nNF6PQizuJPZql91
+1787,-84729,Asril Mochammad,2017-12-24,United States,Order #ch_1BcS1FG3nNF6PQizn4nzhOu3
+1788,-83,Arnoldo Alexis Moya Gonzalez,2017-12-03,Mexico,Order #ch_1BUrJWG3nNF6PQiz5Zi7jpCP
+1789,-118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaelG3nNF6PQizBT2ToYJQ
+1790,-118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPac7G3nNF6PQizi6SSI8sE
+1791,-118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPabEG3nNF6PQizt7gddJXH
+1792,-118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaaCG3nNF6PQiz5dEDApzq
+1793,-118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaZQG3nNF6PQizj4GsXDFT
+1794,-118,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaYkG3nNF6PQizrX5la1qO
+1795,-126,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaP0G3nNF6PQiziomEfIcX
+1796,-126,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaKYG3nNF6PQiztRGdW7Q0
+1797,-126,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaJpG3nNF6PQiz4TZKYJ1k
+1798,-126,Sumit Kumar,2017-11-19,United States,Order #ch_1BPaGAG3nNF6PQizlvVJIuaG
+1799,-1031,Qsdfqdsf Qsdfdf,2017-10-27,Israel,Order #ch_1BHYFLG3nNF6PQizmS21pTW6
+1800,-1031,Qsdfdf Qsdfqsdf,2017-10-27,Israel,Order #ch_1BHYDSG3nNF6PQizuBLajfnm
+1801,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEILbG3nNF6PQiz4EAXRPYv
+1802,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEIKhG3nNF6PQizJIh9R1eg
+1803,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEIKOG3nNF6PQiz3eHvKijK
+1804,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEIJkG3nNF6PQizlHfIpWkO
+1805,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEIHgG3nNF6PQizASNPNPTP
+1806,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEIHMG3nNF6PQizOD1JC2GW
+1807,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHsUG3nNF6PQizNcdlCvIS
+1808,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHrnG3nNF6PQiz4LheMeM2
+1809,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHqgG3nNF6PQiz9hMYBx0x
+1810,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHpfG3nNF6PQizM42TLnbP
+1811,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHpNG3nNF6PQizejS0V9uZ
+1812,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHldG3nNF6PQizeb7Za68F
+1813,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHl1G3nNF6PQizTHVmQCOO
+1814,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHhcG3nNF6PQizRzCCWcxa
+1815,-114,Mohamad Jabareen,2017-10-18,Sverige,Order #ch_1BEHeNG3nNF6PQizgrTPM2lE
+1816,-137,Kathryn Ratledge,2017-10-12,United States,Order #ch_1BBz05G3nNF6PQizEAysEOM8
+1817,-244,Nguyen To,2017-10-06,India,Order #ch_1B9lq4G3nNF6PQiz5nuil5Zd
+1818,-244,Nguyen To,2017-10-06,India,Order #ch_1B9lmoG3nNF6PQizlWbegMAz
+1819,-244,Nguyen To,2017-10-06,India,Order #ch_1B9lihG3nNF6PQizF5gaNyCi
+1820,-244,Nguyen To,2017-10-06,India,Order #ch_1B9li2G3nNF6PQiz4MptRL5C
+1821,-244,Nguyen To,2017-10-06,India,Order #ch_1B9lihG3nNF6PQizF5gaNyCi
+1822,-244,Nguyen To,2017-10-06,India,Order #ch_1B9li2G3nNF6PQiz4MptRL5C
+1823,-244,Nguyen To,2017-10-06,India,Order #ch_1B9lhHG3nNF6PQizEOJ2X8dC
+1824,-244,Nguyen To,2017-10-06,India,Order #ch_1B9lYIG3nNF6PQiz8sVDlai7
+1825,-244,Nguyen To,2017-10-06,India,Order #ch_1B9lXqG3nNF6PQizGxxXsH8T
+1826,-244,Nguyen To,2017-10-06,India,Order #ch_1B9lK8G3nNF6PQiznMwhZwFk
+1827,-244,Nguyen To,2017-10-06,India,Order #ch_1B9jxZG3nNF6PQizHKIxAIY5
+1828,-122,Arturo Apolinario L,2017-10-01,Ecuador,Order #ch_1B7nZrG3nNF6PQizdzsWOgk7
+1829,-122,Arturo Apolinario L,2017-10-01,Ecuador,Order #ch_1B7nYFG3nNF6PQizCBqM2P4y
+1830,-79,Manuel Leiva Alarcon,2017-09-22,Chile,Order #ch_1B4g62G3nNF6PQizojBcmIoY
+1831,-79,Manuel Omar Leiva Alarcon,2017-09-22,Chile,Order #ch_1B4g3cG3nNF6PQizs9j4mTjG
+1832,-79,Manuel Leiva Alarcon,2017-09-22,Chile,Order #ch_1B4g0UG3nNF6PQiz4qDBcumo
+1833,-79,Figueroa Pedraza Javier Hernan,2017-09-22,Colombia,Order #ch_1B4d7mG3nNF6PQizuTZNPORH
+1834,-79,Luis Fernando De La Ossa Ruiz,2017-09-22,Colombia,Order #ch_1B4cUWG3nNF6PQizpspMpcV2
+1835,-80,Luis Andres Rivera Crisostomo,2017-09-21,Mexico,Order #ch_1B4Ug0G3nNF6PQizc11JigA5
+1836,-80,Gloria Speelman,2017-09-21,United States,Order #ch_1B4RKoG3nNF6PQizhkPjR9bp
+1837,-79,Fernando Aldemar  Patiño ,2017-09-15,Uruguay,Order #ch_1B23ING3nNF6PQizUgMuzKtu
+1838,-79,Guillermo Coronado,2017-09-15,Mexico,Order #ch_1B22zMG3nNF6PQizSBdQofbe
+1839,-112,Aida Llucia Valldeperas ,2017-09-12,United States,Order #ch_1B0uv0G3nNF6PQizTtkm2RoG
+1840,-112,Aida Llucia Valldeperas ,2017-09-12,United States,Order #ch_1B0uu0G3nNF6PQiz84Gr1049
+1841,-112,Aida Llucia Valldeperas ,2017-09-12,United States,Order #ch_1B0utBG3nNF6PQizqJ6va19c
+1842,-80,Felipe Basich Escoto,2017-09-12,Mexico,Order #ch_1B0uUrG3nNF6PQizPuLtuXmz
+1843,-79,Carlos Pina,2017-09-10,Mexico,Order #ch_1B0K5xG3nNF6PQizfbgnyI9C
+1844,-79,Marcos F Marin Guerra,2017-09-10,Mexico,Order #ch_1B0JOqG3nNF6PQizLl6Eh0MD
+1845,-79,Marcos F Marin Guerra,2017-09-10,Mexico,Order #ch_1B0JNTG3nNF6PQizRFoKtA8A
+1846,-79,Guy Joseph Munnia,2017-09-10,Spain,Order #ch_1B0GWeG3nNF6PQizBcuOEky1
+1847,-79,Nelson Scocoza ,2017-09-10,Uruguay,Order #ch_1B0EvJG3nNF6PQizYR5HxjKb
+1848,-118,Harry Lum Hon Lup,2017-09-09,Singapore,Order #ch_1B06UZG3nNF6PQiz7ap5bSFH
+1849,-79,Mario Cortes De La Cruz,2017-09-08,Mexico,Order #ch_1AzVKeG3nNF6PQizn8ch7d6z
+1850,-143,Djodi Dwi Saputro,2017-09-07,United States,Order #ch_1AzK2cG3nNF6PQizSvzEQRJR
+1851,-143,Djodi Dwi Saputri,2017-09-07,Indonesia,Order #ch_1AzJugG3nNF6PQizhpKgEkYu
+1852,-79,Zulima S Granados R,2017-09-07,Colombia,Order #ch_1Az6d2G3nNF6PQiz0R4DFIbK
+1853,-79,Zulima S Granados R,2017-09-07,Colombia,Order #ch_1Az6axG3nNF6PQizBuFn1WWq
+1854,-79,Zulima S Granados R,2017-09-07,Colombia,Order #ch_1Az6Z5G3nNF6PQizuJPZql91
+1855,2995,Johan Ronnestam,2018-11-20,,BEU Watches - Order 4700
+1856,-2995,Johan Ronnestam,2018-11-21,,BEU Watches - Order 4700
+1857,2495,Johan Ronnestam,2019-01-06,,BEU Watches - Order 5104
+1858,-2495,Johan Ronnestam,2019-01-06,,BEU Watches - Order 5104
+1859,2396,Patrick Söderström,2018-12-30,,BEU Watches - Order 5096
+1860,1432,Karin  Robertson ,2018-10-02,United Kingdom,Order #ch_1DGVUEDPV5AS2cdq2NleYUXG
+1861,1432,Karin  Robertson ,2018-10-02,United Kingdom,Order #ch_1DGVUEDPV5AS2cdq2NleYUXG
+1862,1432,Karin  Robertson ,2018-10-02,United Kingdom,Order #ch_1DGVUEDPV5AS2cdq2NleYUXG
+1863,1432,Karin  Robertson ,2018-10-02,United Kingdom,Order #ch_1DGVUEDPV5AS2cdq2NleYUXG
+1864,1432,Karin  Robertson ,2018-10-02,United Kingdom,Order #ch_1DGVUEDPV5AS2cdq2NleYUXG
+1865,969,Amex,2019-01-10,Sverige,Order #3687
+1866,-969,Amex,2019-01-10,Sverige,Order #3687
+1867,969,Oskar Elvhage,2019-01-10,Sverige,Order #3686
+1868,-969,Oskar Elvhage,2019-01-10,Sverige,Order #3686
+1869,508,Alexandra Ficsor,2019-01-09,Sverige,Order #3676
+1870,4427,Alexandra Ficsor,2019-01-09,Sverige,Order #3674
+1871,-4427,Alexandra Ficsor,2019-01-09,Sverige,Order #3674
+1872,1538,Patricio Miranda,2019-01-07,Sverige,Order #3648
+1873,738,Philip Trocme,2019-01-07,Sverige,Order #3643
+1874,5743,Fredrik Norén,2019-01-05,Sverige,Order #3622
+1875,769,Peter Thureson,2019-01-03,Sverige,Order #3599
+1876,478,Susanne Bengtsson,2019-01-02,Sverige,Order #3583
+1877,511,Monica Jönsson,2019-01-01,Sverige,Order #3578
+1878,2396,Kalle Tjärnvall,2018-12-29,Sverige,Order #3547
+1879,2095,Kalle Tjärnvall,2018-12-29,Sverige,Order #3545
+1880,796,Anna Zäll,2018-12-29,Sverige,Order #3537
+1881,2398,Jorma Kerki,2018-12-26,Sverige,Order #3508
+1882,228,Vanja Beslic,2018-12-26,Sverige,Order #3505
+1883,285,Rebecca Thorvald Nyfelt,2018-12-25,Sverige,Order #3495
+1884,388,Carol Reed,2018-12-22,Sverige,Order #3464
+1885,1699,Bengt Jonsson,2018-12-17,Sverige,Order #3403
+1886,488,Fredrik Bylund,2018-12-17,Sverige,Order #3394
+1887,288,Stefan Persson,2018-12-17,Sverige,Order #3389
+1888,769,Thomas Westman,2018-12-17,Sverige,Order #3379
+1889,1199,Wilhelm Ternborg,2018-12-16,Sverige,Order #3359
+1890,708,Liv Persson,2018-12-15,Sverige,Order #3335
+1891,530,Susanne Bengtsson,2018-12-15,Sverige,Order #3331
+1892,5309,Tobias Larsson,2018-12-15,Sverige,Order #3330
+1893,531,Susanne Bengtsson,2018-12-15,Sverige,Order #3329
+1894,238,Linda Jacobsson,2018-12-15,Sverige,Order #3326
+1895,388,Olof Ward,2018-12-14,Sverige,Order #3320
+1896,4695,Kim Magnusson,2018-12-14,Sverige,Order #3319
+1897,458,Jenny Johansson,2018-12-14,Sverige,Order #3311
+1898,135,Vicki HUDSON,2017-09-24,Australia,Order #39K20908103709812
+1899,135,Essentially Graceful Living,2017-09-24,United States,Order #1MM61284LR793404L
+1900,135,Hannah Nutter,2017-09-24,United Kingdom,Order #9L940863S95382448
+1901,135,Kayla Lindsay,2017-09-24,United States,Order #6DB4249812802074V
+1902,135,Jo Wood,2017-09-24,Australia,Order #35487309B53208209
+1903,135,Jeffrey DeGroff,2017-09-24,United States,Order #92K2230167765453L
+1904,352,Sarah Bakes,2017-09-24,United States,Order #4WC62478DB860643X
+1905,135,Jacquie Bloxham,2017-09-24,United States,Order #1HW32000AT008763P
+1906,79,Megan Giesel,2017-09-24,United States,Order #3RA72047E8439863A
+1907,238,Mariah Bogle,2017-09-24,United States,Order #2W176812B6727120N
+1908,135,John Goldman,2017-09-24,United States,Order #8CD847355U800312D
+1909,135,Stacey Fox,2017-09-24,Australia,Order #6LE67166AF730890D
+1910,136,Megan O'Neill,2017-09-25,United States,Order #6MF91239S1054451Y
+1911,136,Stephen Moore,2017-09-25,Australia,Order #6JD85118JL2762113
+1912,136,Claudia Smith,2017-09-25,United States,Order #40488189W7173291M
+1913,521,Aidan Rough,2017-09-25,Australia,Order #0U977315DT312991P
+1914,136,TreeWallArt,2017-09-25,United Kingdom,Order #54901201JM260335J
+1915,136,amber caillouet,2017-09-25,United States,Order #0WA70525NC302911E
+1916,136,Vicki HUDSON,2017-09-25,Australia,Order #3XD79332VB289662G
+1917,136,Essentially Graceful Living,2017-09-25,United States,Order #7U2978443P6537133
+1918,136,Hannah Nutter,2017-09-25,United Kingdom,Order #7MS37976962609156
+1919,136,Kayla Lindsay,2017-09-25,United States,Order #0L525751FB279241X
+1920,136,Jo Wood,2017-09-25,Australia,Order #7WA31411FH523224E
+1921,136,Jeffrey DeGroff,2017-09-25,United States,Order #97970177BT832545F
+1922,354,Sarah Bakes,2017-09-25,United States,Order #7DY38602E50357103
+1923,136,Jacquie Bloxham,2017-09-25,United States,Order #7TL61213L4676063D
+1924,80,Megan Giesel,2017-09-25,United States,Order #4EL39663HJ9462709
+1925,240,Mariah Bogle,2017-09-25,United States,Order #2GP770419F393945W
+1926,136,John Goldman,2017-09-25,United States,Order #0569817103230321V
+1927,136,Stacey Fox,2017-09-25,Australia,Order #64P218503C792852J
+1928,321,Sally Moody,2017-09-25,United Kingdom,Order #7D329160HA2947427
+1929,136,amber caillouet,2017-09-25,United States,Order #1J571079X7694864N
+1930,137,Amy Knowles,2017-09-26,Australia,Order #019865137F955440Y
+1931,137,Monique Happy Editorial Services,2017-09-26,United States,Order #490463694L108505X
+1932,137,Alexander Macias,2017-09-26,United States,Order #9W492598ME958751W
+1933,325,Tamara Bravo,2017-09-26,Australia,Order #4JA42613NP535394L
+1934,137,Zita Korsinczky,2017-09-26,Australia,Order #8M340707FN0531108
+1935,325,Tamara Bravo,2017-09-26,Australia,Order #1XK45419FF714450H
+1936,137,Zita Korsinczky,2017-09-26,Australia,Order #04F93066MS4511910
+1937,242,Beth Stanton,2017-09-26,United States,Order #1FA733943W324191J
+1938,137,may chun wai,2017-09-26,Hong Kong,Order #4D546966BM340341R
+1939,137,Natalie Bailey,2017-09-26,Australia,Order #3W663227811913614
+1940,242,Tammie-Lee Pickles,2017-09-26,Australia,Order #4UA375470G1330603
+1941,299,Adam Sullivan,2017-09-26,Australia,Order #1LV64142VR897620M
+1942,242,Paula Backstrom,2017-09-26,Australia,Order #60S8291479743952M
+1943,258,Kathryn Ramsell,2017-09-26,Australia,Order #14L62558VE741554Y
+1944,242,Beth Stanton,2017-09-26,United States,Order #97575474H7166930P
+1945,137,may chun wai,2017-09-26,Hong Kong,Order #41P7536723566832V
+1946,137,Natalie Bailey,2017-09-26,Australia,Order #6AJ76345RY375290N
+1947,242,Tammie-Lee Pickles,2017-09-26,Australia,Order #1ET58476DB273092G
+1948,299,Adam Sullivan,2017-09-26,Australia,Order #98B73661SY802221G
+1949,242,Paula Backstrom,2017-09-26,Australia,Order #64445951KB9116420
+1950,258,Kathryn Ramsell,2017-09-26,Australia,Order #58J04307Y3163302K
+1951,137,Dann Marais,2017-09-26,Australia,Order #4BP69212KH2747906
+1952,137,Judith Martin,2017-09-26,Spain,Order #9YG75984WE079434Y
+1953,137,Angel Wernick,2017-09-26,United States,Order #18Y81043HF110710H
+1954,137,Tim Maynard,2017-09-26,New Zealand,Order #6HC72167V7465840N
+1955,137,Dustin Puchalski,2017-09-26,United States,Order #7BK912058P651303G
+1956,137,Rebekah Colson,2017-09-26,United States,Order #3WT30172RK252800B
+1957,137,Megan O'Neill,2017-09-26,United States,Order #6SS88713AD7975849
+1958,137,Stephen Moore,2017-09-26,Australia,Order #3NM97639NU170251R
+1959,137,Claudia Smith,2017-09-26,United States,Order #2AG72203E85459321
+1960,525,Aidan Rough,2017-09-26,Australia,Order #86C3313708699573F
+1961,137,TreeWallArt,2017-09-26,United Kingdom,Order #0V952528T2072683J
+1962,137,Dann Marais,2017-09-26,Australia,Order #8FB79840WX689713G
+1963,137,Judith Martin,2017-09-26,Spain,Order #63J62748M30461829
+1964,137,Angel Wernick,2017-09-26,United States,Order #4KG39560T3570964T
+1965,137,Tim Maynard,2017-09-26,New Zealand,Order #2R439477NH628924K
+1966,137,Dustin Puchalski,2017-09-26,United States,Order #8MG4367300281981L
+1967,137,Rebekah Colson,2017-09-26,United States,Order #6ES75230T6587281T
+1968,138,Jennifer Bourgeois,2017-09-27,United States,Order #72Y14286S24742523
+1969,138,Felicity Martin-Porter,2017-09-27,Australia,Order #91P90904PM230850T
+1970,342,Hélène Platteborze,2017-09-27,Belgium,Order #5UM42831TU8989912
+1971,138,Cody Arthur,2017-09-27,United States,Order #6LW1013817174345D
+1972,138,Jennifer Sigmon,2017-09-27,United States,Order #8LM17500FX440793W
+1973,138,Netta Toomey,2017-09-27,Australia,Order #1M090453JD029415N
+1974,138,Thea Jones,2017-09-27,Australia,Order #2CW68826DM192452E
+1975,138,Amy Knowles,2017-09-27,Australia,Order #7MR01872BG4957113
+1976,138,Monique Happy Editorial Services,2017-09-27,United States,Order #8R435510C3362271L
+1977,138,Alexander Macias,2017-09-27,United States,Order #70704917TF596011V
+1978,138,Jennifer Sigmon,2017-09-27,United States,Order #0VG76583SX9973144
+1979,138,Netta Toomey,2017-09-27,Australia,Order #4WE08791Y5019372C
+1980,138,Thea Jones,2017-09-27,Australia,Order #1GT73275YA494145K
+1981,138,Elizabeth Fox,2017-09-27,United States,Order #01085224JB671183R
+1982,-1697,Kund-2605,2019-01-07,,2605
+1983,438,Kund-2732,2018-12-02,,2732
+1984,745,Kund-2914,2018-12-02,,2914
+1985,206,Kund-2924,2018-12-02,,2924
+1986,325,Kund-2873,2018-11-30,,2873
+1987,188,Kund-2862,2018-11-29,,2862
+1988,458,Kund-2868,2018-11-29,,2868
+1989,638,Kund-2879,2018-11-29,,2879
+1990,778,Kund-2806,2018-11-29,,2806
+1991,318,Kund-2789,2018-11-29,,2789
+1992,318,Kund-2838,2018-11-29,,2838
+1993,407,Kund-2878,2018-11-28,,2878
+1994,488,Kund-2889,2018-11-28,,2889
+1995,438,Kund-2891,2018-11-28,,2891
+1996,388,Kund-2869,2018-11-28,,2869
+1997,438,Kund-2836,2018-11-28,,2836
+1998,438,Kund-2821,2018-11-28,,2821
+1999,549,Kund-2792,2018-11-28,,2792
+2000,699,Kund-2777,2018-11-28,,2777
+2001,438,Kund-2771,2018-11-28,,2771
+2002,438,Kund-2756,2018-11-28,,2756
+2003,438,Kund-2728,2018-11-28,,2728
+2004,438,Kund-2717,2018-11-28,,2717
+2005,588,Kund-2642,2018-11-28,,2642
+2006,208,Kund-2858,2018-11-27,,2858
+2007,599,Kund-2828,2018-11-27,,2828
+2008,467,Kund-2812,2018-11-27,,2812
+2009,798,Kund-2810,2018-11-27,,2810
+2010,598,Kund-2801,2018-11-27,,2801
+2011,408,Kund-2799,2018-11-27,,2799
+2012,518,Kund-2795,2018-11-27,,2795
+2013,248,Kund-2793,2018-11-27,,2793
+2014,507,Kund-2731,2018-11-27,,2731
+2015,-1697,Kund-2605,2019-01-07,,2605
+2016,-1697,Kund-2605,2019-01-07,,2605
+2017,-1697,Kund-2605,2019-01-07,,2605
+2018,-1020,Kund-3112,2019-01-07,,3112
+2019,1319,Kund-3448,2019-01-03,,3448
+2020,-1697,Kund-2605,2019-01-07,,2605
+2021,-1697,Kund-2605,2019-01-07,,2605
+2022,181,Lina Staaf,2018-12-29,,BEU Watches - Order 5095
+2023,237,krister grunditz,2018-12-19,,BEU Watches - Order 4891
+2024,285,lennart jonasson,2018-12-19,,BEU Watches - Order 4890
+2025,238,Kurre Lansburgh,2018-12-18,,BEU Watches - Order 4889
+2026,-238,Kurre Lansburgh,2019-01-14,,BEU Watches - Order 4889
+2027,238,Johan Wellander,2018-12-15,,BEU Watches - Order 4888
+2028,286,Baris Färnman,2018-12-14,,BEU Watches - Order 4887
+2029,-286,Baris Färnman,2019-01-14,,BEU Watches - Order 4887
+2030,365,Christer  Hernestig ,2018-12-14,,BEU Watches - Order 4885
+2031,226,Ivan Stoler,2018-12-14,,BEU Watches - Order 4884
+2032,177,Hildur Isdal,2018-12-13,,BEU Watches - Order 4878
+2033,226,Helena Chrona,2018-12-13,,BEU Watches - Order 4877
+2034,302,Bengt Edholm,2018-12-13,,BEU Watches - Order 4876
+2035,43,Daniel Gyhlenius,2018-12-11,,BEU Watches - Order 4869
+2036,227,Thomas Karlsson,2018-12-11,,BEU Watches - Order 4868
+2037,228,Helena Einarsson,2018-12-10,,BEU Watches - Order 4863
+2038,190,Carl Göransson,2018-12-09,,BEU Watches - Order 4856
+2039,179,Jens söderlund,2018-12-05,,BEU Watches - Order 4852
+2040,285,Johan Frisch,2018-12-03,,BEU Watches - Order 4849
+2041,310,Per Magnusson,2018-12-02,,BEU Watches - Order 4848
+2042,214,Mikael Danielsson,2018-11-30,,BEU Watches - Order 4847
+2043,215,Mats Rönne,2018-11-29,,BEU Watches - Order 4846
+2044,229,Fredrik Strömbäck,2018-11-29,,BEU Watches - Order 4845
+2045,286,Mats Gredin,2018-11-29,,BEU Watches - Order 4844
+2046,420,Roger Edenglänt,2018-11-28,,BEU Watches - Order 4843
+2047,419,Kristina Hintze,2018-11-28,,BEU Watches - Order 4841
+2048,285,Robert Tinterov,2018-11-28,,BEU Watches - Order 4840
+2049,286,Fredrik Westman,2018-11-28,,BEU Watches - Order 4830
+2050,214,Jenny Hollstrand,2018-11-27,,BEU Watches - Order 4829
+2051,228,Patrik Zingmark,2018-11-27,,BEU Watches - Order 4825
+2052,262,Martin Fogander,2018-11-24,,BEU Watches - Order 4762
+2053,2995,Johan Ronnestam,2018-11-20,,BEU Watches - Order 4700
+2054,2995,Johan Ronnestam,2018-11-20,,BEU Watches - Order 4700
+2055,2995,Johan Ronnestam,2018-11-21,,BEU Watches - Order 4700
+2056,2995,Johan Ronnestam,2018-11-20,,BEU Watches - Order 4700
+2057,-2995,Johan Ronnestam,2018-11-21,,BEU Watches - Order 4700
+2058,2495,Johan Ronnestam,2019-01-06,,BEU Watches - Order 5104
+2059,-2495,Johan Ronnestam,2019-01-06,,BEU Watches - Order 5104
+2060,2396,Patrick Söderström,2018-12-30,,BEU Watches - Order 5096
+2061,1894,Lina Staaf,2018-12-29,,BEU Watches - Order 5095
+2062,2495,krister grunditz,2018-12-19,,BEU Watches - Order 4891
+2063,2995,lennart jonasson,2018-12-19,,BEU Watches - Order 4890
+2064,2495,Kurre Lansburgh,2018-12-18,,BEU Watches - Order 4889
+2065,-2495,Kurre Lansburgh,2019-01-14,,BEU Watches - Order 4889
+2066,2495,Johan Wellander,2018-12-15,,BEU Watches - Order 4888
+2067,2995,Baris Färnman,2018-12-14,,BEU Watches - Order 4887
+2068,-2995,Baris Färnman,2019-01-14,,BEU Watches - Order 4887
+2069,3843,Christer  Hernestig ,2018-12-14,,BEU Watches - Order 4885
+2070,2382,Ivan Stoler,2018-12-14,,BEU Watches - Order 4884
+2071,1871,Hildur Isdal,2018-12-13,,BEU Watches - Order 4878
+2072,2396,Helena Chrona,2018-12-13,,BEU Watches - Order 4877
+2073,3162,Bengt Edholm,2018-12-13,,BEU Watches - Order 4876
+2074,449,Daniel Gyhlenius,2018-12-11,,BEU Watches - Order 4869
+2075,2396,Thomas Karlsson,2018-12-11,,BEU Watches - Order 4868
+2076,2396,Helena Einarsson,2018-12-10,,BEU Watches - Order 4863
+2077,1996,Carl Göransson,2018-12-09,,BEU Watches - Order 4856
+2078,1871,Jens söderlund,2018-12-05,,BEU Watches - Order 4852
+2079,2995,Johan Frisch,2018-12-03,,BEU Watches - Order 4849
+2080,3257,Per Magnusson,2018-12-02,,BEU Watches - Order 4848
+2081,2246,Mikael Danielsson,2018-11-30,,BEU Watches - Order 4847
+2082,2246,Mats Rönne,2018-11-29,,BEU Watches - Order 4846
+2083,2396,Fredrik Strömbäck,2018-11-29,,BEU Watches - Order 4845
+2084,2995,Mats Gredin,2018-11-29,,BEU Watches - Order 4844
+2085,4392,Roger Edenglänt,2018-11-28,,BEU Watches - Order 4843
+2086,2995,Johan Ronnestam,2018-11-20,,BEU Watches - Order 4700
+2087,-2995,Johan Ronnestam,2018-11-21,,BEU Watches - Order 4700
+2088,2495,Johan Ronnestam,2019-01-06,,BEU Watches - Order 5104
+2089,-2495,Johan Ronnestam,2019-01-06,,BEU Watches - Order 5104
+2090,2995,Johan Ronnestam,2018-11-20,,BEU Watches - Order 4700
+2091,-2995,Johan Ronnestam,2018-11-21,,BEU Watches - Order 4700
+2092,2495,Johan Ronnestam,2019-01-06,,BEU Watches - Order 5104
+2093,-2495,Johan Ronnestam,2019-01-06,,BEU Watches - Order 5104
+2094,2396,Patrick Söderström,2018-12-30,,BEU Watches - Order 5096
+2095,1894,Lina Staaf,2018-12-29,,BEU Watches - Order 5095
+2096,2495,krister grunditz,2018-12-19,,BEU Watches - Order 4891
+2097,2995,lennart jonasson,2018-12-19,,BEU Watches - Order 4890
+2098,2495,Kurre Lansburgh,2018-12-18,,BEU Watches - Order 4889
+2099,-2495,Kurre Lansburgh,2019-01-14,,BEU Watches - Order 4889
+2100,2995,Johan Ronnestam,2018-11-20,,BEU Watches - Order 4700
+2101,-2995,Johan Ronnestam,2018-11-21,,BEU Watches - Order 4700
+2102,2495,Johan Ronnestam,2019-01-06,,BEU Watches - Order 5104
+2103,-2495,Johan Ronnestam,2019-01-06,,BEU Watches - Order 5104
+2104,2396,Patrick Söderström,2018-12-30,,BEU Watches - Order 5096
+2105,1894,Lina Staaf,2018-12-29,,BEU Watches - Order 5095
+2106,2495,krister grunditz,2018-12-19,,BEU Watches - Order 4891
+2107,2995,lennart jonasson,2018-12-19,,BEU Watches - Order 4890
+2108,2495,Kurre Lansburgh,2018-12-18,,BEU Watches - Order 4889
+2109,2495,Johan Ronnestam,2019-01-06,,BEU Watches - Order 5104
+2110,-2495,Johan Ronnestam,2019-01-06,,BEU Watches - Order 5104
+2111,2396,Patrick Söderström,2018-12-30,,BEU Watches - Order 5096
+2112,1894,Lina Staaf,2018-12-29,,BEU Watches - Order 5095
+2113,2495,krister grunditz,2018-12-19,,BEU Watches - Order 4891
+2114,2995,lennart jonasson,2018-12-19,,BEU Watches - Order 4890
+2115,2495,Kurre Lansburgh,2018-12-18,,BEU Watches - Order 4889
+2116,-2495,Kurre Lansburgh,2019-01-14,,BEU Watches - Order 4889
+2117,2495,Johan Wellander,2018-12-15,,BEU Watches - Order 4888
+2118,2995,Baris Färnman,2018-12-14,,BEU Watches - Order 4887
+2119,-2995,Baris Färnman,2019-01-14,,BEU Watches - Order 4887
+2120,3843,Christer  Hernestig ,2018-12-14,,BEU Watches - Order 4885
+2121,2382,Ivan Stoler,2018-12-14,,BEU Watches - Order 4884
+2122,1871,Hildur Isdal,2018-12-13,,BEU Watches - Order 4878
+2123,2396,Helena Chrona,2018-12-13,,BEU Watches - Order 4877
+2124,3162,Bengt Edholm,2018-12-13,,BEU Watches - Order 4876
+2125,449,Daniel Gyhlenius,2018-12-11,,BEU Watches - Order 4869
+2126,2396,Thomas Karlsson,2018-12-11,,BEU Watches - Order 4868
+2127,2396,Helena Einarsson,2018-12-10,,BEU Watches - Order 4863
+2128,1996,Carl Göransson,2018-12-09,,BEU Watches - Order 4856
+2129,1871,Jens söderlund,2018-12-05,,BEU Watches - Order 4852
+2130,2995,Johan Frisch,2018-12-03,,BEU Watches - Order 4849
+2131,3257,Per Magnusson,2018-12-02,,BEU Watches - Order 4848
+2132,2246,Mikael Danielsson,2018-11-30,,BEU Watches - Order 4847
+2133,2246,Mats Rönne,2018-11-29,,BEU Watches - Order 4846
+2134,2396,Fredrik Strömbäck,2018-11-29,,BEU Watches - Order 4845
+2135,2995,Mats Gredin,2018-11-29,,BEU Watches - Order 4844
+2136,4392,Roger Edenglänt,2018-11-28,,BEU Watches - Order 4843
+2137,4392,Kristina Hintze,2018-11-28,,BEU Watches - Order 4841
+2138,2995,Robert Tinterov,2018-11-28,,BEU Watches - Order 4840
+2139,2995,Fredrik Westman,2018-11-28,,BEU Watches - Order 4830
+2140,2246,Jenny Hollstrand,2018-11-27,,BEU Watches - Order 4829
+2141,2396,Patrik Zingmark,2018-11-27,,BEU Watches - Order 4825
+2142,2754,Martin Fogander,2018-11-24,,BEU Watches - Order 4762
+2143,198,Markus Maliszewski,2019-01-18,,Automatisera Mera - Order 2363
+2144,239,Maria Råsten,2019-01-17,,Automatisera Mera - Order 2355
+2145,169,Erik Sundström,2019-01-16,,Automatisera Mera - Order 2351
+2146,239,Gilbert Holmgren,2019-01-12,,Automatisera Mera - Order 2344
+2147,548,Fredrik Johansson,2019-01-12,,Automatisera Mera - Order 2341
+2148,189,Christian Löfvendahl,2019-01-11,,Automatisera Mera - Order 2334
+2149,89,Charlotta Bulow,2019-01-11,,Automatisera Mera - Order 2329
+2150,149,Charlotta Bulow,2019-01-10,,Automatisera Mera - Order 2323
+2151,99,Magnus Gustafsson,2019-01-09,,Automatisera Mera - Order 2318
+2152,249,Daniel Seaton,2019-01-07,,Automatisera Mera - Order 2315
+2153,89,Julia Brorson,2019-01-06,,Automatisera Mera - Order 2307
+2154,199,Olof Bendt,2019-01-05,,Automatisera Mera - Order 2302
+2155,239,Daniel Lindblom,2019-01-05,,Automatisera Mera - Order 2298
